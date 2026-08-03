@@ -1,0 +1,32 @@
+name: Consulta PNCP - Educação Cascavel
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  consultar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Rodar consulta PNCP
+        run: python pncp_educacao_cascavel.py
+
+      - name: Commit e push do resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add licitacoes-educacao-cascavel.txt
+          git diff --quiet --cached || git commit -m "Atualiza licitações Educação Cascavel"
+          git push
