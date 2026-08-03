@@ -176,7 +176,7 @@ def consultar_municipio(nome: str, cnpj: str, inicio, hoje) -> str:
 
 def main():
     hoje = datetime.now(timezone.utc).date()
-    inicio = hoje - timedelta(days=3)
+    inicio = hoje - timedelta(days=10)
 
     for municipio in MUNICIPIOS:
         conteudo = consultar_municipio(municipio["nome"], municipio["cnpj"], inicio, hoje)
