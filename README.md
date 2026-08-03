@@ -14,6 +14,9 @@ texto simples por município.
 - Londrina — `licitacoes-educacao-londrina.txt`
 - Paranaguá — `licitacoes-educacao-paranagua.txt`
 - Toledo — `licitacoes-educacao-toledo.txt`
+- Curitiba - `licitacoes-educacao-curitiba.txt`
+- Guarapuava - `licitacoes-educacao-guarapuava.txt`
+ 
 
 Para adicionar um novo município, inclua um item na lista `MUNICIPIOS` em
 `pncp_educacao_municipios.py` com nome, CNPJ da prefeitura e nome do
