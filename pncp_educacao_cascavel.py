@@ -34,12 +34,12 @@ def eh_secretaria_educacao(item: dict) -> bool:
 
 
 def buscar_pagina(url: str, tentativas: int = 5):
-    """Busca uma página da API com retry/backoff para erros 429."""
+    """Busca uma página da API com retry/backoff para erros 429, timeout e falhas de rede."""
     espera = 2
     for tentativa in range(tentativas):
         try:
             req = Request(url, headers={"Accept": "application/json"})
-            with urlopen(req, timeout=30) as resp:
+            with urlopen(req, timeout=45) as resp:
                 if resp.status != 200:
                     return None
                 return json.loads(resp.read().decode("utf-8"))
@@ -53,8 +53,13 @@ def buscar_pagina(url: str, tentativas: int = 5):
                 continue
             print(f"Erro HTTP {e.code}: {e}")
             return None
-        except URLError as e:
-            print(f"Erro de rede: {e}")
+        except (URLError, TimeoutError, OSError) as e:
+            if tentativa < tentativas - 1:
+                print(f"Falha de rede/timeout ({e}), aguardando {espera}s e tentando de novo...")
+                time.sleep(espera)
+                espera *= 2
+                continue
+            print(f"Erro de rede/timeout definitivo: {e}")
             return None
         except json.JSONDecodeError:
             return None
