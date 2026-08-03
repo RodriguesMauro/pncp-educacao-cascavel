@@ -53,12 +53,12 @@ MUNICIPIOS = [
         "arquivo": "licitacoes-educacao-toledo.txt",
     },
         {
-        "nome": "Toledo",
+        "nome": "Curitiba",
         "cnpj": "76417289000130",
         "arquivo": "licitacoes-educacao-curitiba.txt",
     },
         {
-        "nome": "Toledo",
+        "nome": "Guarapuava",
         "cnpj": "76178037000176",
         "arquivo": "licitacoes-educacao-guarapuava.txt",
     },
