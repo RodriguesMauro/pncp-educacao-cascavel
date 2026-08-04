@@ -177,9 +177,16 @@ def consultar_municipio(nome: str, cnpj: str, inicio, hoje) -> str:
             linhas.append(f"Abertura proposta: {item.get('dataAberturaProposta', 'n/d')}")
             linhas.append(f"Encerramento proposta: {item.get('dataEncerramentoProposta', 'n/d')}")
             linhas.append(f"Valor total estimado: {formatar_valor(item.get('valorTotalEstimado'))}")
-            link = item.get("linkSistemaOrigem")
-            if link:
-                linhas.append(f"Link: {link}")
+                cnpj_orgao = (item.get("orgaoEntidade") or {}).get("cnpj", cnpj)
+                ano = item.get("anoCompra")
+                sequencial = item.get("sequencialCompra")
+                if cnpj_orgao and ano and sequencial:
+                    linhas.append(f"Link PNCP: https://pncp.gov.br/app/editais/{cnpj_orgao}/{ano}/{sequencial}")
+
+                link_origem = item.get("linkSistemaOrigem")
+                if link_origem:
+                    linhas.append(f"Link sistema de origem (Comprasnet etc.): {link_origem}")
+    
 
     return "\n".join(linhas) + "\n"
 
