@@ -1,5 +1,5 @@
 Licitações da Secretaria Municipal de Educação de Toledo-PR (25/07/2026 a 04/08/2026)
-Atualizado em: 2026-08-04T13:26:07.206246+00:00
+Atualizado em: 2026-08-04T13:54:21.897064+00:00
 
 ------------------------------------------------------------
 Número controle PNCP: 76205806000188-1-000171/2026
@@ -9,3 +9,4 @@ Objeto: Registro de preços, pelo período de 12 (doze) meses, para prestação 
 Abertura proposta: 2026-08-04T17:00:00
 Encerramento proposta: 2026-08-20T08:00:00
 Valor total estimado: R$ 409.980,00
+Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/171

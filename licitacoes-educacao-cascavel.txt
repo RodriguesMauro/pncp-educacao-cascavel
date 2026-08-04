@@ -1,5 +1,5 @@
 Licitações da Secretaria Municipal de Educação de Cascavel-PR (25/07/2026 a 04/08/2026)
-Atualizado em: 2026-08-04T13:23:00.134067+00:00
+Atualizado em: 2026-08-04T13:51:17.757610+00:00
 
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000377/2026
@@ -9,6 +9,7 @@ Objeto: REFORMA DA ESCOLA MUNICIPAL ANA NERI
 Abertura proposta: 2026-07-28T09:00:00
 Encerramento proposta: 2026-08-18T09:00:00
 Valor total estimado: R$ 3.548.513,04
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/377
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000371/2026
 Número da compra: PRI 64
@@ -17,6 +18,7 @@ Objeto: Locação de parte do Imóvel Urbano localizado na Rua Ponta Grossa, n°
 Abertura proposta: None
 Encerramento proposta: None
 Valor total estimado: R$ 372.000,00
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/371
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000372/2026
 Número da compra: PRI 63
@@ -25,6 +27,7 @@ Objeto: Locação de Imóvel Urbano localizado na Rua Cristo Redentor, n° 172, 
 Abertura proposta: None
 Encerramento proposta: None
 Valor total estimado: R$ 204.000,00
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/372
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000374/2026
 Número da compra: PRI 62
@@ -33,6 +36,7 @@ Objeto: Aquisição de conjuntos escolares para os alunos da rede municipal de e
 Abertura proposta: None
 Encerramento proposta: None
 Valor total estimado: R$ 57.195,93
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/374
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000381/2026
 Número da compra: PRI 67
@@ -41,3 +45,4 @@ Objeto: Contratação de solução de acessibilidade e inclusão educacional.
 Abertura proposta: None
 Encerramento proposta: None
 Valor total estimado: R$ 364.500,00
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/381
