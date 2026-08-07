@@ -1,5 +1,5 @@
-Licitações da Secretaria Municipal de Educação de Cascavel-PR (27/07/2026 a 06/08/2026)
-Atualizado em: 2026-08-06T14:42:28.201632+00:00
+Licitações da Secretaria Municipal de Educação de Cascavel-PR (28/07/2026 a 07/08/2026)
+Atualizado em: 2026-08-07T10:10:12.391121+00:00
 
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000377/2026
@@ -10,33 +10,6 @@ Abertura proposta: 2026-07-28T09:00:00
 Encerramento proposta: 2026-08-18T09:00:00
 Valor total estimado: R$ 3.548.513,04
 Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/377
-------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000371/2026
-Número da compra: PRI 64
-Modalidade: Inexigibilidade
-Objeto: Locação de parte do Imóvel Urbano localizado na Rua Ponta Grossa, n° 1918, Bairro São Cristóvão, Cascavel/PR - que será utilizado para funcionamento do CETEA II.
-Abertura proposta: None
-Encerramento proposta: None
-Valor total estimado: R$ 372.000,00
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/371
-------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000372/2026
-Número da compra: PRI 63
-Modalidade: Inexigibilidade
-Objeto: Locação de Imóvel Urbano localizado na Rua Cristo Redentor, n° 172, Bairro Pioneiros Catarinenses, Cascavel/PR
-Abertura proposta: None
-Encerramento proposta: None
-Valor total estimado: R$ 204.000,00
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/372
-------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000374/2026
-Número da compra: PRI 62
-Modalidade: Inexigibilidade
-Objeto: Aquisição de conjuntos escolares para os alunos da rede municipal de ensino de Cascavel/PR, através da adesão à Ata de Registro de Preços nº 13/2024 do Fundo Nacional de Desenvolvimento da Educação - FNDE, para atender o Termo de Compromisso PAR nº 43200019/2025.
-Abertura proposta: None
-Encerramento proposta: None
-Valor total estimado: R$ 57.195,93
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/374
 ------------------------------------------------------------
 Número controle PNCP: 76208867000107-1-000381/2026
 Número da compra: PRI 67
