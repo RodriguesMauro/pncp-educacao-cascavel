@@ -1,21 +1,4 @@
 Licitações da Secretaria Municipal de Educação de Cascavel-PR (28/07/2026 a 07/08/2026)
-Atualizado em: 2026-08-07T10:10:12.391121+00:00
+Atualizado em: 2026-08-07T23:16:29.662510+00:00
 
-------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000377/2026
-Número da compra: CCE 35
-Modalidade: Concorrência - Eletrônica
-Objeto: REFORMA DA ESCOLA MUNICIPAL ANA NERI
-Abertura proposta: 2026-07-28T09:00:00
-Encerramento proposta: 2026-08-18T09:00:00
-Valor total estimado: R$ 3.548.513,04
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/377
-------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000381/2026
-Número da compra: PRI 67
-Modalidade: Inexigibilidade
-Objeto: Contratação de solução de acessibilidade e inclusão educacional.
-Abertura proposta: None
-Encerramento proposta: None
-Valor total estimado: R$ 364.500,00
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/381
+Nenhuma licitação nova da Secretaria de Educação encontrada no período.
