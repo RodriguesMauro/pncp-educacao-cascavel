@@ -1,5 +1,5 @@
-Licitações da Secretaria Municipal de Educação de Toledo-PR (30/07/2026 a 09/08/2026)
-Atualizado em: 2026-08-09T09:43:13.541877+00:00
+Licitações da Secretaria Municipal de Educação de Toledo-PR (31/07/2026 a 10/08/2026)
+Atualizado em: 2026-08-10T12:11:17.440114+00:00
 
 ------------------------------------------------------------
 Número controle PNCP: 76205806000188-1-000171/2026
@@ -10,3 +10,12 @@ Abertura proposta: 2026-08-04T17:00:00
 Encerramento proposta: 2026-08-20T08:00:00
 Valor total estimado: R$ 409.980,00
 Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/171
+------------------------------------------------------------
+Número controle PNCP: 76205806000188-1-000176/2026
+Número da compra: 64
+Modalidade: Pregão - Eletrônico
+Objeto: Registro de Preços, pelo período de 12 (doze) meses, para eventual contratação de empresa(s) especializada(s) na prestação de serviço de transporte de passageiros, com execução por demanda, para atender aos estudantes da rede municipal de ensino. O serviço será prestado em veículos tipo ÔNIBUS (mín. 42 passageiros), MICRO-ÔNIBUS (mín. 29 passageiros) e VAN (mín. 16 passageiros).
+Abertura proposta: 2026-08-10T17:00:00
+Encerramento proposta: 2026-08-27T08:00:00
+Valor total estimado: R$ 554.709,91
+Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/176
