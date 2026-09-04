@@ -1,4 +1,30 @@
-Licitações da Secretaria Municipal de Educação de Guarapuava-PR (03/08/2026 a 13/08/2026)
-Atualizado em: 2026-08-13T11:23:37.669330+00:00
+Licitações da Secretaria Municipal de Educação de Guarapuava-PR (25/08/2026 a 04/09/2026)
+Atualizado em: 2026-09-04T12:56:30.443789+00:00
 
-Nenhuma licitação nova da Secretaria de Educação encontrada no período.
+------------------------------------------------------------
+Número controle PNCP: 76178037000176-1-000223/2026
+Número da compra: PCE 111
+Modalidade: Pregão - Eletrônico
+Objeto: REGISTRO DE PREÇO PARA AQUISIÇÃO DE MATERIAIS DE LIMPEZA, HIGIENE E CONSERVAÇÃO PARA ATENDIMENTO DAS UNIDADES VINCULADAS À SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Abertura proposta: 2026-08-25T17:00:00
+Encerramento proposta: 2026-09-10T09:00:00
+Valor total estimado: R$ 3.924.119,50
+Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/223
+------------------------------------------------------------
+Número controle PNCP: 76178037000176-1-000224/2026
+Número da compra: PCE 112
+Modalidade: Pregão - Eletrônico
+Objeto: REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE MATERIAIS GRÁFICOS E CONTRATAÇÃO DE SERVIÇOS DE IMPRESSÃO E COMUNICAÇÃO VISUAL, INCLUINDO A CONFECÇÃO DE MATERIAIS DIDÁTICOS, PAPELARIA INSTITUCIONAL, SINALIZAÇÃO, ITENS PROMOCIONAIS E SERVIÇOS DE INSTALAÇÃO, VISANDO ATENDER AS DEMANDAS PEDAGÓGICAS, ADMINISTRATIVAS E DE EVENTOS DA SECRETARIA DE EDUCAÇÃO.
+Abertura proposta: 2026-08-26T17:00:00
+Encerramento proposta: 2026-09-14T09:00:00
+Valor total estimado: R$ 2.133.568,40
+Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/224
+------------------------------------------------------------
+Número controle PNCP: 76178037000176-1-000226/2026
+Número da compra: PCE 114
+Modalidade: Pregão - Eletrônico
+Objeto: REGISTRO DE PREÇO PARA EVENTUAL AQUISIÇÃO DE RAÇÃO ANIMAL, PRODUTOS DE HIGIENE, LIMPEZA, INSUMOS VETERINÁRIOS E DE PROTEÇÃO CORRELATOS, PARA ATENDIMENTO DO PLANTEL DE ANIMAIS E DAS ATIVIDADES PEDAGÓGICAS DA ESCOLA DO CAMPO PROFESSOR MAACK.
+Abertura proposta: 2026-08-27T17:00:00
+Encerramento proposta: 2026-09-11T09:00:00
+Valor total estimado: R$ 130.354,08
+Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/226

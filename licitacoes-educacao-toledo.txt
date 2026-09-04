@@ -1,39 +1,4 @@
-Licitações da Secretaria Municipal de Educação de Toledo-PR (03/08/2026 a 13/08/2026)
-Atualizado em: 2026-08-13T11:22:28.197790+00:00
+Licitações da Secretaria Municipal de Educação de Toledo-PR (25/08/2026 a 04/09/2026)
+Atualizado em: 2026-09-04T12:55:34.637877+00:00
 
-------------------------------------------------------------
-Número controle PNCP: 76205806000188-1-000171/2026
-Número da compra: 59
-Modalidade: Pregão - Eletrônico
-Objeto: Registro de preços, pelo período de 12 (doze) meses, para prestação de serviços de transporte de passageiros visando o deslocamento dos estudantes da rede municipal de ensino, das escolas até os locais pré-estabelecidos, possibilitando a participação dos mesmos nos programas e eventos pedagógicos realizados pela Secretaria Municipal de Educação.
-Abertura proposta: 2026-08-04T17:00:00
-Encerramento proposta: 2026-08-20T08:00:00
-Valor total estimado: R$ 409.980,00
-Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/171
-------------------------------------------------------------
-Número controle PNCP: 76205806000188-1-000176/2026
-Número da compra: 64
-Modalidade: Pregão - Eletrônico
-Objeto: Registro de Preços, pelo período de 12 (doze) meses, para eventual contratação de empresa(s) especializada(s) na prestação de serviço de transporte de passageiros, com execução por demanda, para atender aos estudantes da rede municipal de ensino. O serviço será prestado em veículos tipo ÔNIBUS (mín. 42 passageiros), MICRO-ÔNIBUS (mín. 29 passageiros) e VAN (mín. 16 passageiros).
-Abertura proposta: 2026-08-10T17:00:00
-Encerramento proposta: 2026-08-27T08:00:00
-Valor total estimado: R$ 554.709,91
-Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/176
-------------------------------------------------------------
-Número controle PNCP: 76205806000188-1-000178/2026
-Número da compra: 60
-Modalidade: Pregão - Eletrônico
-Objeto: Registro de Preços, pelo período de 12 (doze) meses, para eventual aquisição de gêneros alimentícios para entrega Ponto a Ponto em Escolas da Rede Municipal de Ensino, Centros Municipais de Educação Infantil (CMEIS) e Entidades filantrópicas atendidas com alimentação escolar, da sede e interior do Município de Toledo - PR.
-Abertura proposta: 2026-08-11T17:00:00
-Encerramento proposta: 2026-08-25T00:00:00
-Valor total estimado: R$ 13.496.382,40
-Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/178
-------------------------------------------------------------
-Número controle PNCP: 76205806000188-1-000179/2026
-Número da compra: 62
-Modalidade: Pregão - Eletrônico
-Objeto: Registro de Preços com vigência de 12 meses, para aquisição de materiais pedagógicos básicos essenciais e necessários para ensino em salas de aula das Escolas Municipais, Centros Municipais de Educação Infantil e alunos da Educação de Jovens e Adultos - EJA do Município de Toledo - PR.
-Abertura proposta: 2026-08-11T17:00:00
-Encerramento proposta: 2026-08-25T08:00:00
-Valor total estimado: R$ 3.116.363,46
-Link PNCP: https://pncp.gov.br/app/editais/76205806000188/2026/179
+Nenhuma licitação nova da Secretaria de Educação encontrada no período.

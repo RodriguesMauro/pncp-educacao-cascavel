@@ -1,4 +1,30 @@
-Licitações da Secretaria Municipal de Educação de Cascavel-PR (03/08/2026 a 13/08/2026)
-Atualizado em: 2026-08-13T10:34:48.496256+00:00
+Licitações da Secretaria Municipal de Educação de Cascavel-PR (25/08/2026 a 04/09/2026)
+Atualizado em: 2026-09-04T12:52:15.827197+00:00
 
-Nenhuma licitação nova da Secretaria de Educação encontrada no período.
+------------------------------------------------------------
+Número controle PNCP: 76208867000107-1-000457/2026
+Número da compra: CCE 38
+Modalidade: Concorrência - Eletrônica
+Objeto: CONSTRUÇÃO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL EMMA GNOATTO - SAM 234
+Abertura proposta: 2026-09-02T08:00:00
+Encerramento proposta: 2026-09-18T09:00:00
+Valor total estimado: R$ 8.186.809,96
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/457
+------------------------------------------------------------
+Número controle PNCP: 76208867000107-1-000454/2026
+Número da compra: PCE 120
+Modalidade: Pregão - Eletrônico
+Objeto: Registro de Preços para Contratação de Empresa de Prestação de Serviços e Fornecimento de Peças para a Manutenção das Câmaras Frias do Setor de Nutrição Escolar da Prefeitura de Cascavel/PR.
+Abertura proposta: 2026-08-31T09:00:00
+Encerramento proposta: 2026-09-17T09:00:00
+Valor total estimado: R$ 418.797,34
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/454
+------------------------------------------------------------
+Número controle PNCP: 76208867000107-1-000463/2026
+Número da compra: PCE 109
+Modalidade: Pregão - Eletrônico
+Objeto: Aquisição de Equipamentos de Informática para atender as demandas das unidades escolares e emendas impositivas às unidades escolares pertencentes à Secretaria Municipal de Educação.
+Abertura proposta: 2026-09-03T09:00:00
+Encerramento proposta: 2026-09-18T09:00:00
+Valor total estimado: R$ 5.815.187,80
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/463
