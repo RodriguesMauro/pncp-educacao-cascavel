@@ -52,12 +52,12 @@ MUNICIPIOS = [
         "cnpj": "76205806000188",
         "arquivo": "licitacoes-educacao-toledo.txt",
     },
-        {
+    {
         "nome": "Curitiba",
         "cnpj": "76417289000130",
         "arquivo": "licitacoes-educacao-curitiba.txt",
     },
-        {
+    {
         "nome": "Guarapuava",
         "cnpj": "76178037000176",
         "arquivo": "licitacoes-educacao-guarapuava.txt",
@@ -92,19 +92,19 @@ def buscar_pagina(url: str, tentativas: int = 5):
             if e.code == 404:
                 return None
             if e.code == 429 and tentativa < tentativas - 1:
-                print(f"429 recebido, aguardando {espera}s e tentando de novo...")
+                print(f"    429 recebido, aguardando {espera}s e tentando de novo...", flush=True)
                 time.sleep(espera)
                 espera *= 2
                 continue
-            print(f"Erro HTTP {e.code}: {e}")
+            print(f"    Erro HTTP {e.code}: {e}", flush=True)
             return None
         except (URLError, TimeoutError, OSError) as e:
             if tentativa < tentativas - 1:
-                print(f"Falha de rede/timeout ({e}), aguardando {espera}s e tentando de novo...")
+                print(f"    Falha de rede/timeout ({e}), aguardando {espera}s e tentando de novo...", flush=True)
                 time.sleep(espera)
                 espera *= 2
                 continue
-            print(f"Erro de rede/timeout definitivo: {e}")
+            print(f"    Erro de rede/timeout definitivo: {e}", flush=True)
             return None
         except json.JSONDecodeError:
             return None
@@ -130,7 +130,7 @@ def buscar_modalidade(cnpj: str, data_inicial: str, data_final: str, modalidade:
         if pagina >= total_paginas:
             break
         pagina += 1
-        time.sleep(1)
+        time.sleep(0.4)  # era 1s
 
     return resultados
 
@@ -150,8 +150,9 @@ def consultar_municipio(nome: str, cnpj: str, inicio, hoje) -> str:
 
     todos = []
     for modalidade in MODALIDADES:
+        print(f"  [{nome}] consultando modalidade {modalidade}...", flush=True)
         todos.extend(buscar_modalidade(cnpj, data_inicial, data_final, modalidade))
-        time.sleep(1.5)
+        time.sleep(0.5)  # era 1.5s
 
     encontrados = [item for item in todos if eh_secretaria_educacao(item)]
 
@@ -177,7 +178,7 @@ def consultar_municipio(nome: str, cnpj: str, inicio, hoje) -> str:
             linhas.append(f"Abertura proposta: {item.get('dataAberturaProposta', 'n/d')}")
             linhas.append(f"Encerramento proposta: {item.get('dataEncerramentoProposta', 'n/d')}")
             linhas.append(f"Valor total estimado: {formatar_valor(item.get('valorTotalEstimado'))}")
-         
+
             cnpj_orgao = (item.get("orgaoEntidade") or {}).get("cnpj", cnpj)
             ano = item.get("anoCompra")
             sequencial = item.get("sequencialCompra")
@@ -187,7 +188,7 @@ def consultar_municipio(nome: str, cnpj: str, inicio, hoje) -> str:
             link_origem = item.get("linkSistemaOrigem")
             if link_origem:
                 linhas.append(f"Link sistema de origem (Comprasnet etc.): {link_origem}")
-    
+
     return "\n".join(linhas) + "\n"
 
 
@@ -196,11 +197,12 @@ def main():
     inicio = hoje - timedelta(days=10)
 
     for municipio in MUNICIPIOS:
+        print(f"Consultando {municipio['nome']}...", flush=True)
         conteudo = consultar_municipio(municipio["nome"], municipio["cnpj"], inicio, hoje)
         with open(municipio["arquivo"], "w", encoding="utf-8") as f:
             f.write(conteudo)
         print(conteudo)
-        time.sleep(1)
+        time.sleep(0.5)  # era 1s
 
 
 if __name__ == "__main__":
