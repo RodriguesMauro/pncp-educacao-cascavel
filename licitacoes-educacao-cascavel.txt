@@ -1,30 +1,30 @@
-Licitações da Secretaria Municipal de Educação de Cascavel-PR (25/08/2026 a 04/09/2026)
-Atualizado em: 2026-09-04T12:52:15.827197+00:00
+Licitações da Secretaria Municipal de Educação de Cascavel-PR (14/09/2026 a 24/09/2026)
+Atualizado em: 2026-09-24T13:01:33.204274+00:00
 
 ------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000457/2026
-Número da compra: CCE 38
-Modalidade: Concorrência - Eletrônica
-Objeto: CONSTRUÇÃO DO CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL EMMA GNOATTO - SAM 234
-Abertura proposta: 2026-09-02T08:00:00
-Encerramento proposta: 2026-09-18T09:00:00
-Valor total estimado: R$ 8.186.809,96
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/457
-------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000454/2026
-Número da compra: PCE 120
+Número controle PNCP: 76208867000107-1-000490/2026
+Número da compra: PCE 125
 Modalidade: Pregão - Eletrônico
-Objeto: Registro de Preços para Contratação de Empresa de Prestação de Serviços e Fornecimento de Peças para a Manutenção das Câmaras Frias do Setor de Nutrição Escolar da Prefeitura de Cascavel/PR.
-Abertura proposta: 2026-08-31T09:00:00
-Encerramento proposta: 2026-09-17T09:00:00
-Valor total estimado: R$ 418.797,34
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/454
+Objeto: [Registro de preços] Aquisição de Material escolar em atendimento às necessidades das escolas municipais, centros municipais de educação infantil, educação de jovens e adultos (EJA), Centro de apoio pedagógico às pessoas cegas ou visão reduzida-CAP, centro de capacitação de profissionais da educação e de atendimento às pessoas com surdez-CAS e para clínicas escola e para pessoas com transtorno do Espectro autista-CETEA I e II do Município de Cascavel.
+Abertura proposta: 2026-09-15T09:00:00
+Encerramento proposta: 2026-09-28T09:00:00
+Valor total estimado: R$ 5.560.567,50
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/490
 ------------------------------------------------------------
-Número controle PNCP: 76208867000107-1-000463/2026
-Número da compra: PCE 109
+Número controle PNCP: 76208867000107-1-000500/2026
+Número da compra: PCE 130
 Modalidade: Pregão - Eletrônico
-Objeto: Aquisição de Equipamentos de Informática para atender as demandas das unidades escolares e emendas impositivas às unidades escolares pertencentes à Secretaria Municipal de Educação.
-Abertura proposta: 2026-09-03T09:00:00
-Encerramento proposta: 2026-09-18T09:00:00
-Valor total estimado: R$ 5.815.187,80
-Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/463
+Objeto: [REGISTRO DE PREÇOS] PARA AQUISIÇÃO DE BRINQUEDOS, CADEIRAS, CONJUNTOS PARA REFEITÓRIOS, QUADROS E MOBILIÁRIO, COM A FINALIDADE DE SUPRIR AS NECESSIDADES DAS ESCOLAS E CENTROS MUNICIPAIS DE EDUCAÇÃO INFANTIL DO MUNICIPIO DE CASCAVEL-PR.
+Abertura proposta: 2026-09-17T09:00:00
+Encerramento proposta: 2026-10-02T09:00:00
+Valor total estimado: R$ 3.253.902,05
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/500
+------------------------------------------------------------
+Número controle PNCP: 76208867000107-1-000503/2026
+Número da compra: PCE 132
+Modalidade: Pregão - Eletrônico
+Objeto: AQUISIÇÃO DE ROUPAS DE CAMA E BANHO.
+Abertura proposta: 2026-09-21T09:00:00
+Encerramento proposta: 2026-10-05T08:59:00
+Valor total estimado: R$ 668.120,00
+Link PNCP: https://pncp.gov.br/app/editais/76208867000107/2026/503

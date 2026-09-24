@@ -1,30 +1,30 @@
-Licitações da Secretaria Municipal de Educação de Guarapuava-PR (25/08/2026 a 04/09/2026)
-Atualizado em: 2026-09-04T12:56:30.443789+00:00
+Licitações da Secretaria Municipal de Educação de Guarapuava-PR (14/09/2026 a 24/09/2026)
+Atualizado em: 2026-09-24T13:10:36.216550+00:00
 
 ------------------------------------------------------------
-Número controle PNCP: 76178037000176-1-000223/2026
-Número da compra: PCE 111
+Número controle PNCP: 76178037000176-1-000239/2026
+Número da compra: PCE 124
 Modalidade: Pregão - Eletrônico
-Objeto: REGISTRO DE PREÇO PARA AQUISIÇÃO DE MATERIAIS DE LIMPEZA, HIGIENE E CONSERVAÇÃO PARA ATENDIMENTO DAS UNIDADES VINCULADAS À SECRETARIA MUNICIPAL DE EDUCAÇÃO
-Abertura proposta: 2026-08-25T17:00:00
-Encerramento proposta: 2026-09-10T09:00:00
-Valor total estimado: R$ 3.924.119,50
-Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/223
+Objeto: REGISTRO DE PREÇO PARA EVENTUAL  AQUISIÇÃO DE MATERIAIS GRÁFICOS, MASCOTES EM PELÚCIA E ITENS DE VESTUÁRIOS, VISANDO ATENDER ÀS AÇÕES DO PROERD E ÀS NECESSIDADES PEDAGÓGICAS OPERACIONAIS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Abertura proposta: 2026-09-16T17:00:00
+Encerramento proposta: 2026-10-02T09:00:00
+Valor total estimado: R$ 307.630,00
+Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/239
 ------------------------------------------------------------
-Número controle PNCP: 76178037000176-1-000224/2026
-Número da compra: PCE 112
+Número controle PNCP: 76178037000176-1-000251/2026
+Número da compra: PCE 129
 Modalidade: Pregão - Eletrônico
-Objeto: REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE MATERIAIS GRÁFICOS E CONTRATAÇÃO DE SERVIÇOS DE IMPRESSÃO E COMUNICAÇÃO VISUAL, INCLUINDO A CONFECÇÃO DE MATERIAIS DIDÁTICOS, PAPELARIA INSTITUCIONAL, SINALIZAÇÃO, ITENS PROMOCIONAIS E SERVIÇOS DE INSTALAÇÃO, VISANDO ATENDER AS DEMANDAS PEDAGÓGICAS, ADMINISTRATIVAS E DE EVENTOS DA SECRETARIA DE EDUCAÇÃO.
-Abertura proposta: 2026-08-26T17:00:00
-Encerramento proposta: 2026-09-14T09:00:00
-Valor total estimado: R$ 2.133.568,40
-Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/224
+Objeto: REGISTRO DE PREÇO PARA EVENTUAL AQUISIÇÃO DE MATERIAIS DE CONSTRUÇÃO CIVIL E PINTURA, DESTINADOS A ATENDER ÀS DEMANDAS DE MANUTENÇÃO PREVENTIVA, CORRETIVA E CONSERVAÇÃO PREDIAL DAS UNIDADES ESCOLARES E PRÉDIOS ADMINISTRATIVOS VINCULADOS À SECRETARIA DE EDUCAÇÃO.
+Abertura proposta: 2026-09-23T17:00:00
+Encerramento proposta: 2026-10-08T09:00:00
+Valor total estimado: R$ 1.976.242,20
+Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/251
 ------------------------------------------------------------
-Número controle PNCP: 76178037000176-1-000226/2026
-Número da compra: PCE 114
-Modalidade: Pregão - Eletrônico
-Objeto: REGISTRO DE PREÇO PARA EVENTUAL AQUISIÇÃO DE RAÇÃO ANIMAL, PRODUTOS DE HIGIENE, LIMPEZA, INSUMOS VETERINÁRIOS E DE PROTEÇÃO CORRELATOS, PARA ATENDIMENTO DO PLANTEL DE ANIMAIS E DAS ATIVIDADES PEDAGÓGICAS DA ESCOLA DO CAMPO PROFESSOR MAACK.
-Abertura proposta: 2026-08-27T17:00:00
-Encerramento proposta: 2026-09-11T09:00:00
-Valor total estimado: R$ 130.354,08
-Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/226
+Número controle PNCP: 76178037000176-1-000240/2026
+Número da compra: PRI 45
+Modalidade: Inexigibilidade
+Objeto: Contratação direta, por inexigibilidade de licitação, de licença de uso do Sistema de Fiscalização e Cálculo do Transporte Escolar - FICATESWEB, Módulo Cálculo, pelo período de 12 (doze) meses, incluindo suporte técnico, treinamento dos usuários e atualizações durante a vigência contratual, com fundamento no art. 74, inciso I, da Lei Federal nº 14.133/2021.
+Abertura proposta: None
+Encerramento proposta: None
+Valor total estimado: R$ 9.900,00
+Link PNCP: https://pncp.gov.br/app/editais/76178037000176/2026/240
