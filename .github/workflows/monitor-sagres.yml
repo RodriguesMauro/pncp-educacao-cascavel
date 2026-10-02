@@ -3,8 +3,8 @@ name: Monitor Sagres - oportunidades gestão educacional
 on:
   workflow_dispatch: {}
   schedule:
-    # 08h e 16h (Brasília) = 11 e 19 UTC, de segunda a sexta
-    - cron: "0 11,19 * * 1-5"
+    # 08h (Brasília) = 11 UTC, uma vez por dia, de segunda a sexta
+    - cron: "0 11 * * 1-5"
 
 concurrency:
   group: monitor-sagres
