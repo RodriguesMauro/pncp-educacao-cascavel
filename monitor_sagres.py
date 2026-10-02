@@ -44,9 +44,13 @@ MODALIDADES_WATCH = [2, 4, 5, 6, 7, 8, 9, 12]
 DIAS_WATCH = 90
 
 CIEDEPAR_CNPJ = "37584270000174"
-# Consórcios adicionais a vigiar (CNPJ só números). Acrescente aqui quando descobrir.
+CISNORPI_CNPJ = "00476612000155"
+# Consórcios vigiados (CNPJ só números).
+#   todos=True  -> mostra tudo que o consórcio publica (CIEDEPAR é de educação)
+#   todos=False -> só o que tiver relação com educação/gestão escolar (CISNORPI é de saúde)
 CONSORCIOS_WATCH = {
-    CIEDEPAR_CNPJ: "CIEDEPAR",
+    CIEDEPAR_CNPJ: {"nome": "CIEDEPAR", "todos": True},
+    CISNORPI_CNPJ: {"nome": "CISNORPI", "todos": False},
 }
 
 # ---------------------------------------------------------------- palavras-chave
@@ -224,7 +228,8 @@ def coletar_watch(hoje, fetch=http_json, max_paginas=30):
     processos, atas = {}, []
     ini = (hoje - timedelta(days=DIAS_WATCH)).strftime("%Y%m%d")
     fim = hoje.strftime("%Y%m%d")
-    for cnpj, nome in CONSORCIOS_WATCH.items():
+    for cnpj, cfg in CONSORCIOS_WATCH.items():
+        nome = cfg["nome"]
         for mod in MODALIDADES_WATCH:
             print(f"[watch {nome}] modalidade {mod}", flush=True)
             for it in paginar("contratacoes/publicacao",
@@ -232,6 +237,7 @@ def coletar_watch(hoje, fetch=http_json, max_paginas=30):
                                "codigoModalidadeContratacao": mod, "cnpj": cnpj},
                               fetch, max_paginas):
                 it["_watch"] = nome
+                it["_watch_todos"] = cfg["todos"]
                 processos[item_id(it)] = it
         print(f"[watch {nome}] atas", flush=True)
         try:
@@ -279,6 +285,9 @@ def montar_candidatos(abertas, recentes, watch, agora):
             nivel, motivos = classificar(it)
             org = it.get("orgaoEntidade") or {}
             razao = norm(org.get("razaoSocial"))
+            if it.get("_watch") and not it.get("_watch_todos") and not nivel \
+                    and "educ" not in norm(it.get("objetoCompra")):
+                continue  # consórcio de saúde: ignora compras que não são de educação
             eh_consorcio = "consorcio" in razao or bool(it.get("_watch"))
             if not nivel and not it.get("_watch") and not (eh_consorcio and
                     any(c in norm(it.get("objetoCompra")) for c in CONTEXTO_EDU)):
@@ -380,6 +389,24 @@ def cabecalho_ciedepar(cand, watch, agora):
     return "\n".join(linhas) + "\n"
 
 
+def secao_consorcios(cand):
+    linhas = ["## Consórcios vigiados", ""]
+    achou = False
+    for iid, reg in cand.items():
+        it = reg["item"]
+        if not it.get("_watch") or reg["ciedepar006"]:
+            continue
+        achou = True
+        linhas.append(
+            f"- **{it['_watch']}** · {it.get('modalidadeNome', 'n/d')} nº {it.get('numeroCompra', 'n/d')}"
+            f"/{it.get('anoCompra', '')} · situação **{it.get('situacaoCompraNome', 'n/d')}** · "
+            f"propostas até {fmt_dt(it.get('dataEncerramentoProposta'))} · "
+            f"atualizado em {fmt_dt(it.get('dataAtualizacao'))} · {link_pncp(it)}")
+    if not achou:
+        linhas.append("Nenhum processo de educação encontrado nos consórcios vigiados.")
+    return "\n".join(linhas) + "\n"
+
+
 def carregar_estado(caminho):
     try:
         with open(caminho, encoding="utf-8") as f:
@@ -438,7 +465,7 @@ def executar(ufs, dias, max_paginas, estado_path, relatorios_dir, fetch=http_jso
     rel = [f"# Monitor Sagres — {agora.strftime('%d/%m/%Y %H:%M')} (Brasília)", "",
            f"UFs: {', '.join(ufs)} · candidatos: {len(cand)} · "
            f"novos: {len(novos)} · alterados: {len(mudados)} · atas CIEDEPAR: {len(atas)}", "",
-           cabecalho_ciedepar(cand, watch, agora)]
+           cabecalho_ciedepar(cand, watch, agora), secao_consorcios(cand)]
     for a in atas:
         rel.append(f"- 📜 Ata CIEDEPAR: {a.get('objetoContratacao') or a.get('numeroAtaRegistroPreco', 'n/d')}"
                    f" · vigência até {fmt_dt(a.get('vigenciaFim'))}")

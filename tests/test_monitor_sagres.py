@@ -105,6 +105,35 @@ def teste_fluxo():
     assert len(r4["alertas"]) == 1 and "NOVO" in r4["alertas"][0]
 
 
+def teste_cisnorpi_suspensao_e_filtro_saude():
+    futuro = (AGORA + timedelta(days=6)).isoformat()
+    razao = "CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO NORTE PIONEIRO"
+    edu = mk(m.CISNORPI_CNPJ, 172, "Registro de Preços para licença de uso de sistema informatizado de "
+             "Gestão Educacional e Plataforma Educacional", futuro, razao=razao, num="36", srp=True)
+    saude = mk(m.CISNORPI_CNPJ, 173, "Aquisição de medicamentos e material médico-hospitalar", futuro,
+               razao=razao, num="37")
+    d = tempfile.mkdtemp()
+    est, rel = os.path.join(d, "s.json"), os.path.join(d, "r")
+    t1 = {f"cnpj={m.CISNORPI_CNPJ}": [edu, saude]}
+    r1 = m.executar(["PR"], 3, 5, est, rel, faz_fetch(t1), AGORA)
+    ids = set(r1["cand"])
+    assert edu["numeroControlePNCP"] in ids, "edital de educação do CISNORPI tem que entrar"
+    assert saude["numeroControlePNCP"] not in ids, "compra de saúde não pode entrar"
+    assert "CISNORPI" in open(os.path.join(rel, "latest.md")).read()
+    # suspensão publicada no PNCP -> alerta de alterado
+    susp = dict(edu, situacaoCompraNome="Suspensa", dataAtualizacao="2026-10-03T09:00:00")
+    r2 = m.executar(["PR"], 3, 5, est, rel, faz_fetch({f"cnpj={m.CISNORPI_CNPJ}": [susp, saude]}),
+                    AGORA + timedelta(days=1))
+    assert len(r2["alertas"]) == 1 and "ALTERADO" in r2["alertas"][0] and "Suspensa" in r2["alertas"][0]
+    # republicação com novo prazo (reviravolta) -> novo alerta de alterado
+    nova = dict(susp, situacaoCompraNome="Divulgada no PNCP",
+                dataEncerramentoProposta=(AGORA + timedelta(days=20)).isoformat(),
+                dataAtualizacao="2026-10-10T09:00:00")
+    r3 = m.executar(["PR"], 3, 5, est, rel, faz_fetch({f"cnpj={m.CISNORPI_CNPJ}": [nova]}),
+                    AGORA + timedelta(days=8))
+    assert len(r3["alertas"]) == 1 and "ABERTAS" in r3["alertas"][0]
+
+
 def teste_diagnostico_ciedepar_ausente():
     d = tempfile.mkdtemp()
     m.executar(["PR"], 3, 5, os.path.join(d, "s.json"), os.path.join(d, "r"),
@@ -125,6 +154,7 @@ if __name__ == "__main__":
     m.time.sleep = lambda s: None  # acelera
     teste_classificacao()
     teste_fluxo()
+    teste_cisnorpi_suspensao_e_filtro_saude()
     teste_diagnostico_ciedepar_ausente()
     teste_api_fora_do_ar()
     print("OK: todos os testes passaram")
