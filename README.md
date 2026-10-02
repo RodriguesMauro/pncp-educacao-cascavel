@@ -34,7 +34,7 @@ O que faz:
 1. **Abertas** — contratações com propostas ainda abertas nas UFs monitoradas
    (`MONITOR_UFS`, padrão `PR`) que casam com palavras-chave de gestão educacional.
 2. **Recentes** — publicadas nos últimos 3 dias (pega dispensas e prazos curtos).
-3. **Vigilância de consórcios** — CIEDEPAR (Pregão 006/2026 e demais processos)
+3. **Vigilância de consórcios** — CIEDEPAR (Pregão 006/2026 e demais processos) e CISNORPI (só processos de educação, ex.: Pregão 36/2026)
    e novas atas de registro de preços. Detecta suspensão, retificação, remarcação
    ou reabertura de prazo comparando com `state/seen.json`.
 
