@@ -26,8 +26,8 @@ arquivo de saída.
 
 ## Monitor Sagres (gestão educacional)
 
-`monitor_sagres.py` + `.github/workflows/monitor-sagres.yml` — roda 4x/dia
-(08h, 12h, 16h, 20h Brasília, seg–sáb) e também manualmente.
+`monitor_sagres.py` + `.github/workflows/monitor-sagres.yml` — roda 2x/dia
+(08h e 16h Brasília, seg–sex) e também manualmente.
 
 O que faz:
 

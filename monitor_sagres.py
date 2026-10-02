@@ -34,9 +34,14 @@ from urllib.request import Request, urlopen
 BASE = "https://pncp.gov.br/api/consulta/v1"
 BRT = timezone(timedelta(hours=-3))
 
-# 2 diálogo competitivo, 4 concorrência eletrônica, 5 concorrência presencial,
-# 6 pregão eletrônico, 7 pregão presencial, 8 dispensa, 9 inexigibilidade, 12 credenciamento
-MODALIDADES = [2, 4, 5, 6, 7, 8, 9, 12]
+# 4 concorrência eletrônica, 5 concorrência presencial, 6 pregão eletrônico,
+# 7 pregão presencial, 8 dispensa, 12 credenciamento (propostas abertas)
+MODALIDADES_ABERTAS = [4, 5, 6, 7, 8, 12]
+# 8 dispensa e 9 inexigibilidade (inexigibilidade não tem fase de propostas, então só aparece aqui)
+MODALIDADES_RECENTES = [8, 9]
+# CIEDEPAR usa pregão/concorrência
+MODALIDADES_WATCH = [6, 4]
+DIAS_WATCH = 90
 
 CIEDEPAR_CNPJ = "37584270000174"
 # Consórcios adicionais a vigiar (CNPJ só números). Acrescente aqui quando descobrir.
@@ -181,7 +186,7 @@ def coletar_abertas(ufs, hoje, fetch=http_json, max_paginas=60):
     achados = {}
     data_final = (hoje + timedelta(days=365)).strftime("%Y%m%d")
     for uf in ufs:
-        for mod in MODALIDADES:
+        for mod in MODALIDADES_ABERTAS:
             print(f"[abertas] {uf} modalidade {mod}", flush=True)
             for it in paginar("contratacoes/proposta",
                               {"dataFinal": data_final, "codigoModalidadeContratacao": mod, "uf": uf},
@@ -195,7 +200,7 @@ def coletar_recentes(ufs, hoje, dias, fetch=http_json, max_paginas=60):
     ini = (hoje - timedelta(days=dias)).strftime("%Y%m%d")
     fim = hoje.strftime("%Y%m%d")
     for uf in ufs:
-        for mod in MODALIDADES:
+        for mod in MODALIDADES_RECENTES:
             print(f"[recentes] {uf} modalidade {mod}", flush=True)
             for it in paginar("contratacoes/publicacao",
                               {"dataInicial": ini, "dataFinal": fim,
@@ -206,12 +211,12 @@ def coletar_recentes(ufs, hoje, dias, fetch=http_json, max_paginas=60):
 
 
 def coletar_watch(hoje, fetch=http_json, max_paginas=30):
-    """Tudo que os consórcios vigiados publicaram nos últimos 150 dias + atas."""
+    """Tudo que os consórcios vigiados publicaram nos últimos 90 dias + atas."""
     processos, atas = {}, []
-    ini = (hoje - timedelta(days=150)).strftime("%Y%m%d")
+    ini = (hoje - timedelta(days=DIAS_WATCH)).strftime("%Y%m%d")
     fim = hoje.strftime("%Y%m%d")
     for cnpj, nome in CONSORCIOS_WATCH.items():
-        for mod in [2, 4, 5, 6, 7, 8, 9, 12]:
+        for mod in MODALIDADES_WATCH:
             print(f"[watch {nome}] modalidade {mod}", flush=True)
             for it in paginar("contratacoes/publicacao",
                               {"dataInicial": ini, "dataFinal": fim,
@@ -388,7 +393,6 @@ def comparar(cand, estado, agora_iso):
         novo_estado[iid] = {
             "sig": sig,
             "primeira_vez": (antigo or {}).get("primeira_vez", agora_iso),
-            "ultima_vez": agora_iso,
             "situacao": it.get("situacaoCompraNome"),
         }
         if antigo is None:
@@ -447,7 +451,8 @@ def executar(ufs, dias, max_paginas, estado_path, relatorios_dir, fetch=http_jso
         texto_alerta = (f"# Monitor Sagres — {len(alertas)} alerta(s) em "
                         f"{agora.strftime('%d/%m/%Y %H:%M')}\n\n" + "\n".join(alertas))
     salvar(os.path.join(relatorios_dir, "alerts.md"), texto_alerta)
-    salvar(estado_path, novo_estado, binario_json=True)
+    if novo_estado != estado:
+        salvar(estado_path, novo_estado, binario_json=True)
     print(f"Concluído: {len(cand)} candidatos, {len(novos)} novos, {len(mudados)} alterados, "
           f"{len(alertas)} alertas.")
     return {"cand": cand, "novos": novos, "mudados": mudados, "alertas": alertas}

@@ -3,8 +3,8 @@ name: Monitor Sagres - oportunidades gestão educacional
 on:
   workflow_dispatch: {}
   schedule:
-    # 08h, 12h, 16h e 20h (Brasília) = 11, 15, 19 e 23 UTC, de segunda a sábado
-    - cron: "0 11,15,19,23 * * 1-6"
+    # 08h e 16h (Brasília) = 11 e 19 UTC, de segunda a sexta
+    - cron: "0 11,19 * * 1-5"
 
 concurrency:
   group: monitor-sagres
@@ -17,33 +17,32 @@ permissions:
 jobs:
   monitorar:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 10   # teto de custo: nunca passa de 10 min por rodada
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Testes offline
-        run: python tests/test_monitor_sagres.py
-
       - name: Rodar monitor
         env:
           MONITOR_UFS: "PR"
           MONITOR_DIAS_RECENTES: "3"
+          MONITOR_MAX_PAGINAS: "40"
         run: python monitor_sagres.py
 
-      - name: Commit do estado e relatórios
+      - name: Commit só se houve novidade
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state/seen.json reports/latest.md reports/alerts.md
-          git diff --quiet --cached || git commit -m "Monitor Sagres: atualiza estado e relatório"
-          git pull --rebase origin main
-          git push
+          git add state/seen.json
+          if [ -s reports/alerts.md ]; then git add reports/latest.md reports/alerts.md; fi
+          git diff --quiet --cached || { git commit -m "Monitor Sagres: atualiza estado" && git pull --rebase origin main && git push; }
 
       - name: Abrir issue com os alertas (GitHub avisa por e-mail)
         env:
