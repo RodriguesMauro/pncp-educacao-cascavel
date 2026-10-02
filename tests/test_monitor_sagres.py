@@ -24,11 +24,25 @@ def mk(cnpj, seq, objeto, enc, modal="Pregão - Eletrônico", sit="Divulgada no 
 
 
 def teste_classificacao():
-    assert m.classificar(mk("1", 1, "Contratação de sistema de gestão escolar em nuvem", "x"))[0] == "forte"
-    assert m.classificar(mk("1", 2, "Licença de uso de software para a rede de ensino", "x"))[0] == "media"
-    assert m.classificar(mk("1", 3, "Aquisição de notebook e software para escolas", "x"))[0] is None
-    assert m.classificar(mk("1", 4, "Aquisição de merenda escolar", "x"))[0] is None
-    assert m.classificar(mk("1", 5, "Plataforma educacional SaaS", "x"))[0] == "forte"
+    c = lambda txt: m.classificar(mk("1", 1, txt, "x"))[0]
+    # deve casar
+    assert c("Contratação de sistema de gestão escolar em nuvem") == "forte"
+    assert c("Plataforma educacional SaaS") == "forte"
+    assert c("Plataforma Integrada de Gestão Educacional com fornecimento de tablets") == "forte"
+    assert c("Licença de uso de software para a rede de ensino") == "media"
+    assert c("Licença de uso de sistema informatizado de gestão para a Secretaria de Educação") == "media"
+    # ruído real visto no primeiro relatório: NÃO pode casar
+    assert c("Fornecimento de cadernos personalizados destinados aos alunos da rede municipal de ensino") is None
+    assert c("Aquisição de tablets, lousas mágicas e bolsas térmicas para a rede municipal de ensino") is None
+    assert c("Contratação de Sistema Apostilado de Ensino para a Rede Municipal de Ensino") is None
+    assert c("Preparo e fornecimento de refeições destinadas à alimentação escolar") is None
+    assert c("Aquisição de uniformes e calçados escolares para alunos da rede municipal de ensino") is None
+    assert c("Aquisição de brinquedos pedagógicos para a educação infantil") is None
+    assert c("Aquisição de notebook e software para escolas") is None
+    assert c("Aquisição de merenda escolar") is None
+    assert c("Material escolar para os alunos da Rede Municipal de Ensino") is None
+    # termo genérico sozinho não é mais aderência forte
+    assert c("Serviços diversos para a rede municipal de ensino") is None
 
 
 def faz_fetch(tabela):
@@ -91,6 +105,14 @@ def teste_fluxo():
     assert len(r4["alertas"]) == 1 and "NOVO" in r4["alertas"][0]
 
 
+def teste_diagnostico_ciedepar_ausente():
+    d = tempfile.mkdtemp()
+    m.executar(["PR"], 3, 5, os.path.join(d, "s.json"), os.path.join(d, "r"),
+               faz_fetch({}), AGORA)
+    txt = open(os.path.join(d, "r", "latest.md")).read()
+    assert "devolveu 0 processo(s)" in txt and "BLL Compras" in txt
+
+
 def teste_api_fora_do_ar():
     d = tempfile.mkdtemp()
     r = m.executar(["PR"], 3, 5, os.path.join(d, "s.json"), os.path.join(d, "r"),
@@ -103,5 +125,6 @@ if __name__ == "__main__":
     m.time.sleep = lambda s: None  # acelera
     teste_classificacao()
     teste_fluxo()
+    teste_diagnostico_ciedepar_ausente()
     teste_api_fora_do_ar()
     print("OK: todos os testes passaram")
