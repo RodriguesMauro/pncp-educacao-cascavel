@@ -39,8 +39,8 @@ BRT = timezone(timedelta(hours=-3))
 MODALIDADES_ABERTAS = [4, 5, 6, 7, 8, 12]
 # 8 dispensa e 9 inexigibilidade (inexigibilidade não tem fase de propostas, então só aparece aqui)
 MODALIDADES_RECENTES = [8, 9]
-# CIEDEPAR usa pregão/concorrência
-MODALIDADES_WATCH = [6, 4]
+# Consulta filtrada por CNPJ é barata (1 página por modalidade), então vale olhar todas
+MODALIDADES_WATCH = [2, 4, 5, 6, 7, 8, 9, 12]
 DIAS_WATCH = 90
 
 CIEDEPAR_CNPJ = "37584270000174"
@@ -50,32 +50,36 @@ CONSORCIOS_WATCH = {
 }
 
 # ---------------------------------------------------------------- palavras-chave
+# Frases específicas de sistema de gestão educacional (qualquer uma já é aderência forte)
 FORTES = [
     "gestao educacional", "gestao escolar", "gestao da educacao",
-    "sistema de gestao educacional", "sistema de gestao escolar",
     "sistema educacional", "plataforma educacional",
     "plataforma integrada de gestao", "sistema academico",
     "diario de classe", "diario escolar", "diario eletronico",
-    "secretaria escolar", "matricula online", "matricula digital",
-    "software educacional", "software de gestao escolar",
-    "sistema de gestao da educacao", "gestao pedagogica",
-    "educacao municipal", "rede municipal de ensino",
+    "secretaria escolar digital", "matricula online", "matricula digital",
+    "software educacional", "gestao pedagogica",
 ]
-TIPO_SOLUCAO = [
-    "software", "sistema", "plataforma", "saas", "licenca de uso",
-    "cessao de uso", "licenciamento", "aplicativo", "solucao tecnologica",
-    "informatizado", "tecnologia da informacao",
+# Indício de que o objeto é software/serviço digital (e não compra de bens)
+SOFT = [
+    "software", "sistema informatizado", "sistema de informac", "sistema de gestao",
+    "plataforma", "saas", "licenca de uso", "licenciamento de software",
+    "cessao de uso", "locacao de sistema", "aplicativo", "solucao tecnologica",
+    "tecnologia da informacao",
 ]
 CONTEXTO_EDU = [
     "educac", "escola", "escolar", "ensino", "pedagog", "academic",
     "aluno", "estudante", "professor", "docente", "secretaria de educacao",
 ]
+# Compras de bens/serviços que não são software. Se aparecem SEM indício de software, descarta.
 RUIDO = [
-    "mobiliario", "merenda", "alimentacao", "genero alimenticio", "uniforme",
-    "veiculo", "onibus", "construcao", "reforma", "ar condicionado",
-    "computador", "notebook", "tablet", "chromebook", "lousa", "livros",
-    "material escolar", "material didatico", "brinquedo", "playground",
-    "impressora", "limpeza", "vigilancia",
+    "mobiliario", "movel", "moveis", "merenda", "alimentacao", "alimenticio", "refeic",
+    "doce", "bombom", "lanche", "uniforme", "calcado", "tenis", "colchao", "colchonete",
+    "veiculo", "onibus", "construcao", "obra", "reforma", "ar condicionado",
+    "computador", "notebook", "tablet", "chromebook", "lousa", "livro", "caderno",
+    "apostilad", "material escolar", "material didatico", "material pedagogico",
+    "kit", "brinquedo", "playground", "instrumento", "microscop", "garrafa",
+    "formatura", "hospedagem", "impressora", "limpeza", "vigilancia", "teste psicologico",
+    "pasta", "bolsa", "squeeze",
 ]
 
 
@@ -91,15 +95,20 @@ def norm(s):
 
 
 def classificar(item):
-    """Retorna (nivel, motivos). nivel: 'forte', 'media' ou None."""
+    """Retorna (nivel, motivos). nivel: 'forte', 'media' ou None.
+
+    forte: frase específica de gestão educacional, e (indício de software OU sem ruído de compra de bens).
+    media: indício de software + contexto escolar, sem ruído de compra de bens.
+    """
     texto = norm(item.get("objetoCompra")) + " " + norm(item.get("informacaoComplementar"))
     fortes = [k for k in FORTES if k in texto]
-    if fortes:
-        return "forte", fortes
-    tipo = [k for k in TIPO_SOLUCAO if k in texto]
+    soft = [k for k in SOFT if k in texto]
     ctx = [k for k in CONTEXTO_EDU if k in texto]
-    if tipo and ctx and not any(r in texto for r in RUIDO):
-        return "media", tipo[:2] + ctx[:2]
+    ruido = [r for r in RUIDO if r in texto]
+    if fortes and (soft or not ruido):
+        return "forte", fortes
+    if soft and ctx and not ruido:
+        return "media", soft[:2] + ctx[:2]
     return None, []
 
 
@@ -252,8 +261,10 @@ def propostas_abertas(item, agora):
 
 
 def eh_pregao_ciedepar_006(item):
-    org = (item.get("orgaoEntidade") or {}).get("cnpj")
-    if org != CIEDEPAR_CNPJ:
+    org = (item.get("orgaoEntidade") or {})
+    razao = norm(org.get("razaoSocial"))
+    if org.get("cnpj") != CIEDEPAR_CNPJ and "ciedepar" not in razao and \
+            "consorcio intermunicipal de educacao e ensino" not in razao:
         return False
     num = "".join(c for c in str(item.get("numeroCompra") or "") if c.isdigit())
     obj = norm(item.get("objetoCompra"))
@@ -350,10 +361,13 @@ def cabecalho_ciedepar(cand, watch, agora):
     ach = [(i, r) for i, r in cand.items() if r["ciedepar006"]]
     linhas = ["## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026", ""]
     if not ach:
+        outros = [i for i in watch.values() if (i.get("orgaoEntidade") or {}).get("cnpj") == CIEDEPAR_CNPJ]
         linhas += [
-            "⚠️ O processo **não foi localizado** na API do PNCP nesta execução "
-            "(pode não ter sido publicado lá, ou a consulta falhou). "
-            "Confira na BLL Compras e em ciedepar.com.br.", ""]
+            "⚠️ O processo **não foi localizado** na API do PNCP nesta execução. "
+            f"A API devolveu {len(outros)} processo(s) do CNPJ do CIEDEPAR nos últimos {DIAS_WATCH} dias. "
+            + ("Se for 0, o consórcio provavelmente não publica no PNCP (só na BLL Compras) "
+               "ou a consulta por CNPJ falhou. " if not outros else "")
+            + "Confira na BLL Compras e em ciedepar.com.br.", ""]
         return "\n".join(linhas) + "\n"
     for iid, reg in ach:
         it = reg["item"]
