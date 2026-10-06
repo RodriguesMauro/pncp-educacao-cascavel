@@ -1,6 +1,6 @@
-# Monitor Sagres — 05/10/2026 16:29 (Brasília)
+# Monitor Sagres — 06/10/2026 14:01 (Brasília)
 
-UFs: PR · candidatos: 9 · novos: 1 · alterados: 0 · atas CIEDEPAR: 36
+UFs: PR · candidatos: 9 · novos: 0 · alterados: 1 · atas CIEDEPAR: 36
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -132,8 +132,8 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 ### 🟡 Aberta · aderência média — MUNICIPIO DE UNIAO DA VITORIA (União da Vitória/PR)
 - **Objeto:** Aquisição de equipamentos e utensílios para cozinha e refeitório, armários e arquivos de aço, camas empilháveis infantis, bem como ferramentas, materiais e utensílios destinados à jardinagem, para a estrutura, organização e manutenção dos espaços das Escolas de Tempo Integral da Rede Municipal de Ensino de União da Vitória – PR, de acordo com as condições, quantidades e exigências estabelecidas no edital e seus anexos.
 - **Modalidade:** Pregão - Eletrônico · nº 26/2026
-- **Situação:** Divulgada no PNCP · atualizado em 30/09/2026 09:17
-- **Propostas:** 30/09/2026 09:17 → 15/10/2026 09:00  ✅ ABERTAS
+- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 11:05
+- **Propostas:** 06/10/2026 11:05 → 22/10/2026 09:00  ✅ ABERTAS
 - **Valor estimado:** R$ 235.752,03
 - **Casou com:** plataforma, escola, ensino
 - **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114

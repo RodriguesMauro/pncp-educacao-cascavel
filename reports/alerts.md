@@ -1,11 +1,12 @@
-# Monitor Sagres — 1 alerta(s) em 05/10/2026 16:29
+# Monitor Sagres — 1 alerta(s) em 06/10/2026 14:01
 
-### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA (Cianorte/PR)
-**🆕 NOVO**
-- **Objeto:** Contratação de agente de integração de estágios especializado para prestação de serviços de recrutamento, seleção e acompanhamento de estudantes para atuarem como estagiários no âmbito do CICENOP.
-- **Modalidade:** Pregão - Eletrônico · nº 13/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 05/10/2026 11:56
-- **Propostas:** 02/10/2026 08:00 → 23/10/2026 08:30  ✅ ABERTAS
-- **Valor estimado:** R$ 160.556,16
-- **Casou com:** vigilância de consórcio
-- **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
+### 🟡 Aberta · aderência média — MUNICIPIO DE UNIAO DA VITORIA (União da Vitória/PR)
+**♻️ ALTERADO (situação/datas/valor mudaram)**
+- **Objeto:** Aquisição de equipamentos e utensílios para cozinha e refeitório, armários e arquivos de aço, camas empilháveis infantis, bem como ferramentas, materiais e utensílios destinados à jardinagem, para a estrutura, organização e manutenção dos espaços das Escolas de Tempo Integral da Rede Municipal de Ensino de União da Vitória – PR, de acordo com as condições, quantidades e exigências estabelecidas no edital e seus anexos.
+- **Modalidade:** Pregão - Eletrônico · nº 26/2026
+- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 11:05
+- **Propostas:** 06/10/2026 11:05 → 22/10/2026 09:00  ✅ ABERTAS
+- **Valor estimado:** R$ 235.752,03
+- **Casou com:** plataforma, escola, ensino
+- **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114
+- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98793705000262026
