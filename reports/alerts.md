@@ -1,12 +1,22 @@
-# Monitor Sagres — 1 alerta(s) em 06/10/2026 14:01
+# Monitor Sagres — 2 alerta(s) em 07/10/2026 14:39
 
-### 🟡 Aberta · aderência média — MUNICIPIO DE UNIAO DA VITORIA (União da Vitória/PR)
-**♻️ ALTERADO (situação/datas/valor mudaram)**
-- **Objeto:** Aquisição de equipamentos e utensílios para cozinha e refeitório, armários e arquivos de aço, camas empilháveis infantis, bem como ferramentas, materiais e utensílios destinados à jardinagem, para a estrutura, organização e manutenção dos espaços das Escolas de Tempo Integral da Rede Municipal de Ensino de União da Vitória – PR, de acordo com as condições, quantidades e exigências estabelecidas no edital e seus anexos.
-- **Modalidade:** Pregão - Eletrônico · nº 26/2026
-- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 11:05
-- **Propostas:** 06/10/2026 11:05 → 22/10/2026 09:00  ✅ ABERTAS
-- **Valor estimado:** R$ 235.752,03
-- **Casou com:** plataforma, escola, ensino
-- **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98793705000262026
+### ⚪ Aderência forte · fora do prazo — MUNICIPIO DE ENTRE RIOS DO OESTE (Entre Rios do Oeste/PR)
+**🆕 NOVO**
+- **Objeto:** Contratação da empresa especializada para prestação de serviços de infraestrutura educacional, consistentes na execução de programa pedagógico imersivo nas áreas de Ciência, Astronomia e Exploração Espacial, compreendendo estrutura de planetário fulldome, equipe técnico-científica especializada, plataforma educacional proprietária Urânia Class, curadoria científica e demais recursos pedagógicos correlatos, conforme condições, quantidades e exigências estabelecidas neste instrumento e no Termo de Referência.
+- **Modalidade:** Inexigibilidade · nº PRI 62/2026
+- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:05
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 6.400,00
+- **Casou com:** plataforma educacional
+- **PNCP:** https://pncp.gov.br/app/editais/95719449000110/2026/252
+
+### ⚪ Acompanhamento — UNIVERSIDADE ESTADUAL DO PARANA (Campo Mourão/PR)
+**🆕 NOVO**
+- **Objeto:** Locação de software de Gestão de Controle Acadêmico para as turmas incorporadas da UNIUV pela UNESPAR.
+- **Modalidade:** Inexigibilidade · nº 38372/2026
+- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:11
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 170.301,50
+- **Casou com:** software, academic
+- **PNCP:** https://pncp.gov.br/app/editais/05012896000142/2026/1078
+- **Sistema de origem:** http://www.transparencia.pr.gov.br/

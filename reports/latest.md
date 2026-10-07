@@ -1,6 +1,6 @@
-# Monitor Sagres — 06/10/2026 14:01 (Brasília)
+# Monitor Sagres — 07/10/2026 14:39 (Brasília)
 
-UFs: PR · candidatos: 9 · novos: 0 · alterados: 1 · atas CIEDEPAR: 36
+UFs: PR · candidatos: 11 · novos: 2 · alterados: 0 · atas CIEDEPAR: 36
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -138,3 +138,22 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Casou com:** plataforma, escola, ensino
 - **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114
 - **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98793705000262026
+
+### ⚪ Aderência forte · fora do prazo — MUNICIPIO DE ENTRE RIOS DO OESTE (Entre Rios do Oeste/PR)
+- **Objeto:** Contratação da empresa especializada para prestação de serviços de infraestrutura educacional, consistentes na execução de programa pedagógico imersivo nas áreas de Ciência, Astronomia e Exploração Espacial, compreendendo estrutura de planetário fulldome, equipe técnico-científica especializada, plataforma educacional proprietária Urânia Class, curadoria científica e demais recursos pedagógicos correlatos, conforme condições, quantidades e exigências estabelecidas neste instrumento e no Termo de Referência.
+- **Modalidade:** Inexigibilidade · nº PRI 62/2026
+- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:05
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 6.400,00
+- **Casou com:** plataforma educacional
+- **PNCP:** https://pncp.gov.br/app/editais/95719449000110/2026/252
+
+### ⚪ Acompanhamento — UNIVERSIDADE ESTADUAL DO PARANA (Campo Mourão/PR)
+- **Objeto:** Locação de software de Gestão de Controle Acadêmico para as turmas incorporadas da UNIUV pela UNESPAR.
+- **Modalidade:** Inexigibilidade · nº 38372/2026
+- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:11
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 170.301,50
+- **Casou com:** software, academic
+- **PNCP:** https://pncp.gov.br/app/editais/05012896000142/2026/1078
+- **Sistema de origem:** http://www.transparencia.pr.gov.br/
