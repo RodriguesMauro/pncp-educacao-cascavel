@@ -1,22 +1,11 @@
-# Monitor Sagres — 2 alerta(s) em 07/10/2026 14:39
+# Monitor Sagres — 1 alerta(s) em 13/10/2026 14:55
 
-### ⚪ Aderência forte · fora do prazo — MUNICIPIO DE ENTRE RIOS DO OESTE (Entre Rios do Oeste/PR)
+### ⚪ Acompanhamento — MUNICIPIO DE SAO JOAO DO CAIUA (São João do Caiuá/PR)
 **🆕 NOVO**
-- **Objeto:** Contratação da empresa especializada para prestação de serviços de infraestrutura educacional, consistentes na execução de programa pedagógico imersivo nas áreas de Ciência, Astronomia e Exploração Espacial, compreendendo estrutura de planetário fulldome, equipe técnico-científica especializada, plataforma educacional proprietária Urânia Class, curadoria científica e demais recursos pedagógicos correlatos, conforme condições, quantidades e exigências estabelecidas neste instrumento e no Termo de Referência.
-- **Modalidade:** Inexigibilidade · nº PRI 62/2026
-- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:05
+- **Objeto:** Aquisição de soluções educacionais estruturadas, autorais e integradas, destinadas à Rede Municipal de Ensino de São João do Caiuá – PR, abrangendo Educação para as Relações Étnico-Raciais,  musicalização na Educação Infantil e Educação Ambiental, com materiais didáticos, recursos para as famílias e professores, formação continuada, plataforma digital e apoio pedagógico, destinados.
+- **Modalidade:** Inexigibilidade · nº 33/2026
+- **Situação:** Divulgada no PNCP · atualizado em 13/10/2026 14:15
 - **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 6.400,00
-- **Casou com:** plataforma educacional
-- **PNCP:** https://pncp.gov.br/app/editais/95719449000110/2026/252
-
-### ⚪ Acompanhamento — UNIVERSIDADE ESTADUAL DO PARANA (Campo Mourão/PR)
-**🆕 NOVO**
-- **Objeto:** Locação de software de Gestão de Controle Acadêmico para as turmas incorporadas da UNIUV pela UNESPAR.
-- **Modalidade:** Inexigibilidade · nº 38372/2026
-- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:11
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 170.301,50
-- **Casou com:** software, academic
-- **PNCP:** https://pncp.gov.br/app/editais/05012896000142/2026/1078
-- **Sistema de origem:** http://www.transparencia.pr.gov.br/
+- **Valor estimado:** R$ 175.141,20
+- **Casou com:** plataforma, educac, ensino
+- **PNCP:** https://pncp.gov.br/app/editais/76238435000130/2026/127

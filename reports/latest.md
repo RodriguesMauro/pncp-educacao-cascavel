@@ -1,6 +1,6 @@
-# Monitor Sagres — 07/10/2026 14:39 (Brasília)
+# Monitor Sagres — 13/10/2026 14:55 (Brasília)
 
-UFs: PR · candidatos: 11 · novos: 2 · alterados: 0 · atas CIEDEPAR: 36
+UFs: PR · candidatos: 5 · novos: 1 · alterados: 0 · atas CIEDEPAR: 37
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -9,7 +9,7 @@ UFs: PR · candidatos: 11 · novos: 2 · alterados: 0 · atas CIEDEPAR: 36
 
 ## Consórcios vigiados
 
-Nenhum processo de educação encontrado nos consórcios vigiados.
+- **CISNORPI** · Pregão - Eletrônico nº 36/2026 · situação **Divulgada no PNCP** · propostas até 08/10/2026 08:30 · atualizado em 22/09/2026 09:58 · https://pncp.gov.br/app/editais/00476612000155/2026/172
 
 - 📜 Ata CIEDEPAR: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM EXECUÇÃO DE OBRAS DE INFRAESTRUTURA PARA OS ENTES DA FEDERAÇÃO CONSORCIADOS, COOPERADOS OU REFERENDADOS AO CISNORPI, ÓRGÃOS E ENTIDADES DA ADMINISTRAÇÃO DIRETA E INDIRETA, NA CONDIÇÃO DE ÓRGÃO PARTICIPANTE DESTA LICITAÇÃO DE ACORDO COM O TERMO DE REFERÊNCIA E COM OS QUANTITATIVOS ESTIMADOS, DURANTE O PRAZO DE VALIDADE DA ATA DE REGISTRO DE PREÇOS.  · vigência até 27/05/2027 00:00
 - 📜 Ata CIEDEPAR:  Contratação de empresa especializada na prestação de serviços gráficos, mediante sistema de registro de preços, destinados ao 
@@ -49,36 +49,18 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - 📜 Ata CIEDEPAR: Registro de Preços, na modalidade Pregão Eletrônico, objetivando a contratação de empresa especializada para a FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM AQUISIÇÃO DE IMPLANTE CONTRACEPTIVO DE LONGA DURAÇÃO DE ETONOGESTREL (IMPLANON), em atendimento às necessidades das Secretarias Municipais dos 22 Municípios consorciados ao CISNORPI, nos termos do Edital, deste Termo de Referência e de seus anexos. · vigência até 30/08/2027 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE EQUIPAMENTO ELETRÔNICO DE TRANSMISSÃO DE IMAGEM COM DISPLAY DE DIODO EMISSOR DE LUZ, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 08/09/2027 00:00
 - 📜 Ata CIEDEPAR: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FABRICAÇÃO E FORNECIMENTO DE ITENS PARA PADRONIZAÇÃO DE INDUMENTARIA (UNIFORMES ESCOLARES),  VISANDO ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DOS MUNICÍPIOS CONSORCIADOS DO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO NORTE PIONEIRO – CISNORPI · vigência até 27/09/2027 00:00
+- 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE ITENS DE MATERIAL DE ESCRITÓRIO E DE PAPELARIA, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 30/09/2027 00:00
 
 ## Oportunidades
 
-### 🔴 Aberta · aderência forte — MUNICIPIO DE PARANAVAI (Paranavaí/PR)
-- **Objeto:** Contratação de Empresa especializada para FORNECIMENTO DE LICENÇA DE USO (LOCAÇÃO) DE SISTEMA INFORMATIZADO EM GESTÃO PÚBLICA MUNICIPAL EM AMBIENTE WEB,  que permita a gestão integrada das atividades administrativas e operacionais, com unificação de dados entre os entes, acesso simultâneo por diferentes setores e controle eficiente das informações em tempo real, com acesso multiusuários em banco de dados único,  incluindo  instalação, configuração, implantação, conversão e migração de dados legados, customização, testes, treinamento e serviços de manutenção mensal, documentação, alterações leg
-- **Modalidade:** Pregão - Eletrônico · nº PCE 53/2026
-- **Situação:** Divulgada no PNCP · atualizado em 22/09/2026 15:38
-- **Propostas:** 23/09/2026 08:30 → 08/10/2026 08:29  ✅ ABERTAS
-- **Valor estimado:** R$ 14.990.592,09
-- **Casou com:** gestao educacional
-- **PNCP:** https://pncp.gov.br/app/editais/76977768000181/2026/186
-
-### 🔴 Aberta · aderência forte — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO NORTE PIONEIRO (Jacarezinho/PR)
+### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO NORTE PIONEIRO (Jacarezinho/PR)
 - **Objeto:** Registro de Preços de empresa especializada para o fornecimento de licença de uso de sistema informatizado de Gestão Educacional e Plataforma Educacional, compreendendo a disponibilização da solução tecnológica, os serviços de instalação, implantação, treinamento, manutenção e suporte técnico continuado, a serem executados por equipe qualificada na área educacional, destinados ao atendimento das demandas administrativas, operacionais e pedagógicas da Secretaria Municipal de Educação, em atendimento as necessidades dos 22 municípios consorciados ao CISNORPI.
 - **Modalidade:** Pregão - Eletrônico · nº 36/2026 · SRP (ata de registro de preços)
 - **Situação:** Divulgada no PNCP · atualizado em 22/09/2026 09:58
-- **Propostas:** 22/09/2026 13:00 → 08/10/2026 08:30  ✅ ABERTAS
+- **Propostas:** 22/09/2026 13:00 → 08/10/2026 08:30
 - **Valor estimado:** R$ 5.725.964,00
 - **Casou com:** gestao educacional, plataforma educacional
 - **PNCP:** https://pncp.gov.br/app/editais/00476612000155/2026/172
-
-### 🟠 Consórcio — CONSORCIO CONDESCOM - CONSORCIO INTERMUNICIPAL PARA O DESENVOLVIMENTO DOS MUNICIPIOS DA REGIAO DE CAMPO MOURAO (Campo Mourão/PR)
-- **Objeto:** REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O DESENVOLVIMENTO, PRODUÇÃO E FORNECIMENTO DE MATERIAL PEDAGÓGICO INTERATIVO, PERSONALIZADO E CONTEXTUALIZADO, EM FORMATO DE ÁLBUM DE FIGURINHAS, DESTINADO AOS ESTUDANTES DAS REDES MUNICIPAIS DE ENSINO DOS ENTES CONSORCIADOS, ASSOCIADO À PRESTAÇÃO DE SERVIÇOS DE PLANEJAMENTO E ORIENTAÇÃO RELACIONADAS À IMPLEMENTAÇÃO E UTILIZAÇÃO DO MATERIAL
-- **Modalidade:** Pregão - Eletrônico · nº 14/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 25/09/2026 09:57
-- **Propostas:** 25/09/2026 17:00 → 08/10/2026 08:15  ✅ ABERTAS
-- **Valor estimado:** R$ 4.572.634,35
-- **Casou com:** vigilância de consórcio
-- **PNCP:** https://pncp.gov.br/app/editais/13133982000131/2026/16
-- **Sistema de origem:** https://bllcompras.com/Process/ProcessView?param1=[gkz]p4XmWAugxDI_GmbCSBa32xehNbXYkqovWuP_OSkn6i3zpGCda7maTh7hdHFT2OVVVaH090vilNLluoTunk6TKSCAMOZxNZ8yei30J/gLrok=
 
 ### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA (Cianorte/PR)
 - **Objeto:** Contratação de agente de integração de estágios especializado para prestação de serviços de recrutamento, seleção e acompanhamento de estudantes para atuarem como estagiários no âmbito do CICENOP.
@@ -88,36 +70,6 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 160.556,16
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
-
-### 🟡 Aberta · aderência média — MUNICIPIO DE GOIOERE (Goioerê/PR)
-- **Objeto:** Contratação de empresa especializada na Prestação de Serviço Continuado de TRANSPORTE ESCOLAR POR KM RODADO, para atender à solicitação da Secretaria Municipal de Educação do município de Goioerê/PR., conforme condições, quantidades e exigências estabelecidas em Edital e seus anexos.
-- **Modalidade:** Pregão - Eletrônico · nº 20/2026
-- **Situação:** Divulgada no PNCP · atualizado em 25/09/2026 15:09
-- **Propostas:** 28/09/2026 08:00 → 13/10/2026 08:00  ✅ ABERTAS
-- **Valor estimado:** R$ 843.502,00
-- **Casou com:** plataforma, educac, escola
-- **PNCP:** https://pncp.gov.br/app/editais/78198975000163/2026/198
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45148105000202026
-
-### 🟡 Aberta · aderência média — UNIVERSIDADE ESTADUAL DO CENTRO OESTE (Guarapuava/PR)
-- **Objeto:** CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO E IMPLANTAÇÃO, EM AMBIENTE ON-PREMISE, DE SOLUÇÃO TECNOLÓGICA COM BLOCKCHAIN E IA -SLM- PARA EMISSÃO, GESTÃO E COMPARTILHAMENTO DE MICROCREDENCIAIS DIGITAIS E GESTÃO DE PDI ACADÊMICO, COM RECURSOS PRÓPRIOS.
-- **Modalidade:** Pregão - Eletrônico · nº 1296/2026
-- **Situação:** Divulgada no PNCP · atualizado em 25/09/2026 14:00
-- **Propostas:** 29/09/2026 08:01 → 13/10/2026 14:00  ✅ ABERTAS
-- **Valor estimado:** R$ 756.750,00
-- **Casou com:** solucao tecnologica, academic
-- **PNCP:** https://pncp.gov.br/app/editais/77902914000172/2026/916
-- **Sistema de origem:** www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1296&ano=2026&codmodalidade=68
-
-### 🟡 Aberta · aderência média — UNIVERSIDADE ESTADUAL DO CENTRO OESTE (Guarapuava/PR)
-- **Objeto:** Aquisição de solução tecnológica (software) para implantação em ambiente on-premise, com tecnologia blockchain e IA (SLM) para emissão, gestão e compartilhamento de microcredenciais digitais e gestão de PDI acadêmico, com recursos próprios.
-- **Modalidade:** Pregão - Eletrônico · nº 12/2026
-- **Situação:** Divulgada no PNCP · atualizado em 28/09/2026 11:03
-- **Propostas:** 29/09/2026 08:00 → 13/10/2026 14:00  ✅ ABERTAS
-- **Valor estimado:** R$ 756.750,00
-- **Casou com:** software, solucao tecnologica, academic
-- **PNCP:** https://pncp.gov.br/app/editais/77902914000172/2026/931
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92971505000122026
 
 ### 🟡 Aberta · aderência média — MUNICIPIO DE GOIOERE (Goioerê/PR)
 - **Objeto:** Contratação de empresa especializada na prestação de serviços técnicos para avaliação do PLANO MUNICIPAL DE EDUCAÇÃO ANTERIOR, ELABORAÇÃO DO PLANO MUNICIPAL DE EDUCAÇÃO 2026–2036 E ESTRUTURAÇÃO DE MECANISMOS DE GOVERNANÇA, MONITORAMENTO E AVALIAÇÃO, conforme solicitação da Secretaria Municipal de Educação do município de Goioerê-PR.
@@ -139,21 +91,11 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114
 - **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98793705000262026
 
-### ⚪ Aderência forte · fora do prazo — MUNICIPIO DE ENTRE RIOS DO OESTE (Entre Rios do Oeste/PR)
-- **Objeto:** Contratação da empresa especializada para prestação de serviços de infraestrutura educacional, consistentes na execução de programa pedagógico imersivo nas áreas de Ciência, Astronomia e Exploração Espacial, compreendendo estrutura de planetário fulldome, equipe técnico-científica especializada, plataforma educacional proprietária Urânia Class, curadoria científica e demais recursos pedagógicos correlatos, conforme condições, quantidades e exigências estabelecidas neste instrumento e no Termo de Referência.
-- **Modalidade:** Inexigibilidade · nº PRI 62/2026
-- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:05
+### ⚪ Acompanhamento — MUNICIPIO DE SAO JOAO DO CAIUA (São João do Caiuá/PR)
+- **Objeto:** Aquisição de soluções educacionais estruturadas, autorais e integradas, destinadas à Rede Municipal de Ensino de São João do Caiuá – PR, abrangendo Educação para as Relações Étnico-Raciais,  musicalização na Educação Infantil e Educação Ambiental, com materiais didáticos, recursos para as famílias e professores, formação continuada, plataforma digital e apoio pedagógico, destinados.
+- **Modalidade:** Inexigibilidade · nº 33/2026
+- **Situação:** Divulgada no PNCP · atualizado em 13/10/2026 14:15
 - **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 6.400,00
-- **Casou com:** plataforma educacional
-- **PNCP:** https://pncp.gov.br/app/editais/95719449000110/2026/252
-
-### ⚪ Acompanhamento — UNIVERSIDADE ESTADUAL DO PARANA (Campo Mourão/PR)
-- **Objeto:** Locação de software de Gestão de Controle Acadêmico para as turmas incorporadas da UNIUV pela UNESPAR.
-- **Modalidade:** Inexigibilidade · nº 38372/2026
-- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 16:11
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 170.301,50
-- **Casou com:** software, academic
-- **PNCP:** https://pncp.gov.br/app/editais/05012896000142/2026/1078
-- **Sistema de origem:** http://www.transparencia.pr.gov.br/
+- **Valor estimado:** R$ 175.141,20
+- **Casou com:** plataforma, educac, ensino
+- **PNCP:** https://pncp.gov.br/app/editais/76238435000130/2026/127
