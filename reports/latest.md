@@ -1,4 +1,4 @@
-# Monitor Sagres — 13/10/2026 14:55 (Brasília)
+# Monitor Sagres — 14/10/2026 12:40 (Brasília)
 
 UFs: PR · candidatos: 5 · novos: 1 · alterados: 0 · atas CIEDEPAR: 37
 
@@ -71,16 +71,6 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
 
-### 🟡 Aberta · aderência média — MUNICIPIO DE GOIOERE (Goioerê/PR)
-- **Objeto:** Contratação de empresa especializada na prestação de serviços técnicos para avaliação do PLANO MUNICIPAL DE EDUCAÇÃO ANTERIOR, ELABORAÇÃO DO PLANO MUNICIPAL DE EDUCAÇÃO 2026–2036 E ESTRUTURAÇÃO DE MECANISMOS DE GOVERNANÇA, MONITORAMENTO E AVALIAÇÃO, conforme solicitação da Secretaria Municipal de Educação do município de Goioerê-PR.
-- **Modalidade:** Concorrência - Eletrônica · nº 12/2026
-- **Situação:** Divulgada no PNCP · atualizado em 04/09/2026 16:27
-- **Propostas:** 08/09/2026 08:00 → 14/10/2026 08:00  ✅ ABERTAS
-- **Valor estimado:** R$ 43.584,00
-- **Casou com:** plataforma, educac
-- **PNCP:** https://pncp.gov.br/app/editais/78198975000163/2026/178
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45148103000122026
-
 ### 🟡 Aberta · aderência média — MUNICIPIO DE UNIAO DA VITORIA (União da Vitória/PR)
 - **Objeto:** Aquisição de equipamentos e utensílios para cozinha e refeitório, armários e arquivos de aço, camas empilháveis infantis, bem como ferramentas, materiais e utensílios destinados à jardinagem, para a estrutura, organização e manutenção dos espaços das Escolas de Tempo Integral da Rede Municipal de Ensino de União da Vitória – PR, de acordo com as condições, quantidades e exigências estabelecidas no edital e seus anexos.
 - **Modalidade:** Pregão - Eletrônico · nº 26/2026
@@ -99,3 +89,12 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 175.141,20
 - **Casou com:** plataforma, educac, ensino
 - **PNCP:** https://pncp.gov.br/app/editais/76238435000130/2026/127
+
+### ⚪ Acompanhamento — MUNICIPIO DE CLEVELANDIA (Clevelândia/PR)
+- **Objeto:** Contratação de empresa especializada no formncimento, em regime de comodato, de telas interativas e monitores profissionais com software de regenciamento, incluido instalação, suporte tecnico, manutenção preventiva e corretiva, bem como a produção e atualização de conteudos educativos e informativos, conforme especificações em ata, atendendo as necessidades da Secretaria de Educação e Cultura.
+- **Modalidade:** Inexigibilidade · nº PRI 14/2026
+- **Situação:** Divulgada no PNCP · atualizado em 14/10/2026 10:46
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 630.000,00
+- **Casou com:** software, educac, secretaria de educacao
+- **PNCP:** https://pncp.gov.br/app/editais/76161199000100/2026/74
