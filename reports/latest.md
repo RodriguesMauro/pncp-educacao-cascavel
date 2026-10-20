@@ -1,6 +1,6 @@
-# Monitor Sagres — 14/10/2026 12:40 (Brasília)
+# Monitor Sagres — 20/10/2026 12:32 (Brasília)
 
-UFs: PR · candidatos: 5 · novos: 1 · alterados: 0 · atas CIEDEPAR: 37
+UFs: PR · candidatos: 4 · novos: 1 · alterados: 1 · atas CIEDEPAR: 37
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -65,8 +65,8 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 ### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA (Cianorte/PR)
 - **Objeto:** Contratação de agente de integração de estágios especializado para prestação de serviços de recrutamento, seleção e acompanhamento de estudantes para atuarem como estagiários no âmbito do CICENOP.
 - **Modalidade:** Pregão - Eletrônico · nº 13/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 05/10/2026 11:56
-- **Propostas:** 02/10/2026 08:00 → 23/10/2026 08:30  ✅ ABERTAS
+- **Situação:** Divulgada no PNCP · atualizado em 20/10/2026 10:31
+- **Propostas:** 02/10/2026 08:00 → 10/11/2026 08:30  ✅ ABERTAS
 - **Valor estimado:** R$ 160.556,16
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
@@ -81,20 +81,11 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114
 - **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98793705000262026
 
-### ⚪ Acompanhamento — MUNICIPIO DE SAO JOAO DO CAIUA (São João do Caiuá/PR)
-- **Objeto:** Aquisição de soluções educacionais estruturadas, autorais e integradas, destinadas à Rede Municipal de Ensino de São João do Caiuá – PR, abrangendo Educação para as Relações Étnico-Raciais,  musicalização na Educação Infantil e Educação Ambiental, com materiais didáticos, recursos para as famílias e professores, formação continuada, plataforma digital e apoio pedagógico, destinados.
-- **Modalidade:** Inexigibilidade · nº 33/2026
-- **Situação:** Divulgada no PNCP · atualizado em 13/10/2026 14:15
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 175.141,20
-- **Casou com:** plataforma, educac, ensino
-- **PNCP:** https://pncp.gov.br/app/editais/76238435000130/2026/127
-
-### ⚪ Acompanhamento — MUNICIPIO DE CLEVELANDIA (Clevelândia/PR)
-- **Objeto:** Contratação de empresa especializada no formncimento, em regime de comodato, de telas interativas e monitores profissionais com software de regenciamento, incluido instalação, suporte tecnico, manutenção preventiva e corretiva, bem como a produção e atualização de conteudos educativos e informativos, conforme especificações em ata, atendendo as necessidades da Secretaria de Educação e Cultura.
-- **Modalidade:** Inexigibilidade · nº PRI 14/2026
-- **Situação:** Divulgada no PNCP · atualizado em 14/10/2026 10:46
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 630.000,00
-- **Casou com:** software, educac, secretaria de educacao
-- **PNCP:** https://pncp.gov.br/app/editais/76161199000100/2026/74
+### 🟡 Aberta · aderência média — MUNICIPIO DE UMUARAMA (Umuarama/PR)
+- **Objeto:** Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento operacional e garantia de sistema de Planetário Digital Full Dome, composto por cúpula, sistema de projeção imersiva 360°, software astronômico e educacional, sistema de áudio, infraestrutura de controle e demais componentes, a ser contratado mediante licitação na modalidade Pregão Eletrônico, sob o critério de julgamento pelo menor preço global.
+- **Modalidade:** Pregão - Eletrônico · nº 59/2026
+- **Situação:** Divulgada no PNCP · atualizado em 19/10/2026 15:33
+- **Propostas:** 19/10/2026 13:30 → 03/11/2026 13:30  ✅ ABERTAS
+- **Valor estimado:** R$ 709.800,00
+- **Casou com:** software, educac
+- **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
