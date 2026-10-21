@@ -1,6 +1,6 @@
-# Monitor Sagres — 20/10/2026 12:32 (Brasília)
+# Monitor Sagres — 21/10/2026 12:48 (Brasília)
 
-UFs: PR · candidatos: 4 · novos: 1 · alterados: 1 · atas CIEDEPAR: 37
+UFs: PR · candidatos: 6 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -50,6 +50,7 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE EQUIPAMENTO ELETRÔNICO DE TRANSMISSÃO DE IMAGEM COM DISPLAY DE DIODO EMISSOR DE LUZ, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 08/09/2027 00:00
 - 📜 Ata CIEDEPAR: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FABRICAÇÃO E FORNECIMENTO DE ITENS PARA PADRONIZAÇÃO DE INDUMENTARIA (UNIFORMES ESCOLARES),  VISANDO ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DOS MUNICÍPIOS CONSORCIADOS DO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO NORTE PIONEIRO – CISNORPI · vigência até 27/09/2027 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE ITENS DE MATERIAL DE ESCRITÓRIO E DE PAPELARIA, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 30/09/2027 00:00
+- 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE ITENS DE MATERIAL DE ESCRITÓRIO E DE PAPELARIA, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 15/10/2027 00:00
 
 ## Oportunidades
 
@@ -89,3 +90,21 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 709.800,00
 - **Casou com:** software, educac
 - **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
+
+### ⚪ Acompanhamento — MUNICIPIO DE PEROLA D'OESTE (Pérola d'Oeste/PR)
+- **Objeto:** CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA E TURISMO DO MUNICÍPIO DE PÉROLA D’OESTE, ESTADO DO PARANÁ, CONFORME TERMO DE COMPROMISSO PAR Nº 962846-5
+- **Modalidade:** Dispensa · nº DL17/2026
+- **Situação:** Divulgada no PNCP · atualizado em 21/10/2026 00:00
+- **Propostas:** 21/09/2026 08:30 → 21/09/2026 08:30
+- **Valor estimado:** R$ 6.980,00
+- **Casou com:** tecnologia da informacao, educac
+- **PNCP:** https://pncp.gov.br/app/editais/75924290000169/2026/32
+
+### ⚪ Acompanhamento — MUNICIPIO DE QUATRO PONTES (Quatro Pontes/PR)
+- **Objeto:** Contratação de NOVA VISÃO GESTÃO PÚBLICA CONSULTORIA E CONCURSOS LTDA, CNPJ nº 07.312.843/0001-72, para inscrição de 01 (um) servidor da Secretaria Municipal de Finanças e Planejamento no curso de capacitação on-line “SIGPC Ágil: A Nova Ferramenta de Prestação de Contas — FNDE 2026”, sobre prestação de contas dos programas do Fundo Nacional de Desenvolvimento da Educação (FNDE) – PNAE, PNATE, ETI e PDDE –, com carga horária de 08 (oito) horas/aula, a ser realizado ao vivo no dia 23 de outubro de 2026, pela plataforma Google Meet.
+- **Modalidade:** Inexigibilidade · nº IL57/2026
+- **Situação:** Divulgada no PNCP · atualizado em 20/10/2026 15:38
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 1.315,00
+- **Casou com:** plataforma, educac
+- **PNCP:** https://pncp.gov.br/app/editais/95719381000170/2026/36

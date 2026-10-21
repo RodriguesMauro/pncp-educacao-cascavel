@@ -1,21 +1,21 @@
-# Monitor Sagres — 2 alerta(s) em 20/10/2026 12:32
+# Monitor Sagres — 2 alerta(s) em 21/10/2026 12:48
 
-### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA (Cianorte/PR)
-**♻️ ALTERADO (situação/datas/valor mudaram)**
-- **Objeto:** Contratação de agente de integração de estágios especializado para prestação de serviços de recrutamento, seleção e acompanhamento de estudantes para atuarem como estagiários no âmbito do CICENOP.
-- **Modalidade:** Pregão - Eletrônico · nº 13/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 20/10/2026 10:31
-- **Propostas:** 02/10/2026 08:00 → 10/11/2026 08:30  ✅ ABERTAS
-- **Valor estimado:** R$ 160.556,16
-- **Casou com:** vigilância de consórcio
-- **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
-
-### 🟡 Aberta · aderência média — MUNICIPIO DE UMUARAMA (Umuarama/PR)
+### ⚪ Acompanhamento — MUNICIPIO DE PEROLA D'OESTE (Pérola d'Oeste/PR)
 **🆕 NOVO**
-- **Objeto:** Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento operacional e garantia de sistema de Planetário Digital Full Dome, composto por cúpula, sistema de projeção imersiva 360°, software astronômico e educacional, sistema de áudio, infraestrutura de controle e demais componentes, a ser contratado mediante licitação na modalidade Pregão Eletrônico, sob o critério de julgamento pelo menor preço global.
-- **Modalidade:** Pregão - Eletrônico · nº 59/2026
-- **Situação:** Divulgada no PNCP · atualizado em 19/10/2026 15:33
-- **Propostas:** 19/10/2026 13:30 → 03/11/2026 13:30  ✅ ABERTAS
-- **Valor estimado:** R$ 709.800,00
-- **Casou com:** software, educac
-- **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
+- **Objeto:** CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA E TURISMO DO MUNICÍPIO DE PÉROLA D’OESTE, ESTADO DO PARANÁ, CONFORME TERMO DE COMPROMISSO PAR Nº 962846-5
+- **Modalidade:** Dispensa · nº DL17/2026
+- **Situação:** Divulgada no PNCP · atualizado em 21/10/2026 00:00
+- **Propostas:** 21/09/2026 08:30 → 21/09/2026 08:30
+- **Valor estimado:** R$ 6.980,00
+- **Casou com:** tecnologia da informacao, educac
+- **PNCP:** https://pncp.gov.br/app/editais/75924290000169/2026/32
+
+### ⚪ Acompanhamento — MUNICIPIO DE QUATRO PONTES (Quatro Pontes/PR)
+**🆕 NOVO**
+- **Objeto:** Contratação de NOVA VISÃO GESTÃO PÚBLICA CONSULTORIA E CONCURSOS LTDA, CNPJ nº 07.312.843/0001-72, para inscrição de 01 (um) servidor da Secretaria Municipal de Finanças e Planejamento no curso de capacitação on-line “SIGPC Ágil: A Nova Ferramenta de Prestação de Contas — FNDE 2026”, sobre prestação de contas dos programas do Fundo Nacional de Desenvolvimento da Educação (FNDE) – PNAE, PNATE, ETI e PDDE –, com carga horária de 08 (oito) horas/aula, a ser realizado ao vivo no dia 23 de outubro de 2026, pela plataforma Google Meet.
+- **Modalidade:** Inexigibilidade · nº IL57/2026
+- **Situação:** Divulgada no PNCP · atualizado em 20/10/2026 15:38
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 1.315,00
+- **Casou com:** plataforma, educac
+- **PNCP:** https://pncp.gov.br/app/editais/95719381000170/2026/36
