@@ -1,6 +1,6 @@
-# Monitor Sagres — 21/10/2026 12:48 (Brasília)
+# Monitor Sagres — 23/10/2026 12:37 (Brasília)
 
-UFs: PR · candidatos: 6 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 6 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -72,16 +72,6 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
 
-### 🟡 Aberta · aderência média — MUNICIPIO DE UNIAO DA VITORIA (União da Vitória/PR)
-- **Objeto:** Aquisição de equipamentos e utensílios para cozinha e refeitório, armários e arquivos de aço, camas empilháveis infantis, bem como ferramentas, materiais e utensílios destinados à jardinagem, para a estrutura, organização e manutenção dos espaços das Escolas de Tempo Integral da Rede Municipal de Ensino de União da Vitória – PR, de acordo com as condições, quantidades e exigências estabelecidas no edital e seus anexos.
-- **Modalidade:** Pregão - Eletrônico · nº 26/2026
-- **Situação:** Divulgada no PNCP · atualizado em 06/10/2026 11:05
-- **Propostas:** 06/10/2026 11:05 → 22/10/2026 09:00  ✅ ABERTAS
-- **Valor estimado:** R$ 235.752,03
-- **Casou com:** plataforma, escola, ensino
-- **PNCP:** https://pncp.gov.br/app/editais/75967760000171/2026/114
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98793705000262026
-
 ### 🟡 Aberta · aderência média — MUNICIPIO DE UMUARAMA (Umuarama/PR)
 - **Objeto:** Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento operacional e garantia de sistema de Planetário Digital Full Dome, composto por cúpula, sistema de projeção imersiva 360°, software astronômico e educacional, sistema de áudio, infraestrutura de controle e demais componentes, a ser contratado mediante licitação na modalidade Pregão Eletrônico, sob o critério de julgamento pelo menor preço global.
 - **Modalidade:** Pregão - Eletrônico · nº 59/2026
@@ -90,6 +80,15 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 709.800,00
 - **Casou com:** software, educac
 - **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
+
+### ⚪ Aderência forte · fora do prazo — UNIVERSIDADE FEDERAL DO PARANA (Curitiba/PR)
+- **Objeto:** Contratação de uma Fundação de Apoio, autorizada a apoiar projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação da UFPR, para prestação de serviços de apoio à gestão administrativa e financeira, a ser executada pela FUNPAR, do projeto Assessoria técnico-pedagógica e consultoria à rede municipal de ensino de Piraquara frente às ações de planejamento educacional, gestão escolar, processos de avaliação e formação continuada .
+- **Modalidade:** Dispensa · nº 691/2026
+- **Situação:** Divulgada no PNCP · atualizado em 22/10/2026 09:57
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 455.998,00
+- **Casou com:** gestao escolar
+- **PNCP:** https://pncp.gov.br/app/editais/75095679000149/2026/593
 
 ### ⚪ Acompanhamento — MUNICIPIO DE PEROLA D'OESTE (Pérola d'Oeste/PR)
 - **Objeto:** CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO DE EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA E TURISMO DO MUNICÍPIO DE PÉROLA D’OESTE, ESTADO DO PARANÁ, CONFORME TERMO DE COMPROMISSO PAR Nº 962846-5
