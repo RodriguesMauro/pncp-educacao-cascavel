@@ -1,6 +1,6 @@
-# Monitor Sagres — 26/10/2026 14:06 (Brasília)
+# Monitor Sagres — 27/10/2026 13:10 (Brasília)
 
-UFs: PR · candidatos: 5 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 6 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -90,6 +90,15 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 709.800,00
 - **Casou com:** software, educac
 - **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
+
+### ⚪ Aderência forte · fora do prazo — MUNICIPIO DE SAO PEDRO DO IGUACU (São Pedro do Iguaçu/PR)
+- **Objeto:** CONTRATAÇÃO, JUNTO À AMOP, DE CURSO DE FORMAÇÃO CONTINUADA, COM CARGA HORÁRIA TOTAL DE 32 (TRINTA E DUAS) HORAS, ABORDANDO OS TEMAS " EDUCAÇÃO EM TEMPO INTEGRAL: CONCEPÇÕES, PRÁTICAS PEDAGÓGICAS E ORGANIZAÇÃO CURRICULAR PARA O DESENVOLVIMENTO INTEGRAL " E " GESTÃO ESCOLAR NA EDUCAÇÃO BÁSICA: RESPONSABILIDADES, COMPETÊNCIAS E LIDERANÇA PEDAGÓGICA", VOLTADO À EQUIPE PEDAGÓGICA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E ÀS DIRETORAS DAS ESCOLAS E CMEIS DA REDE MUNICIPAL DE ENSINO.
+- **Modalidade:** Inexigibilidade · nº IL 40/2026
+- **Situação:** Divulgada no PNCP · atualizado em 26/10/2026 17:17
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 10.000,00
+- **Casou com:** gestao escolar
+- **PNCP:** https://pncp.gov.br/app/editais/95583597000150/2026/122
 
 ### ⚪ Acompanhamento — MUNICIPIO DE BOM SUCESSO DO SUL (Bom Sucesso do Sul/PR)
 - **Objeto:** Contratacao direta da empresa RENTAL SAAS SERVICOS E SOLUCOES EM INFORMATICA LTDA  visando a a aquisicao de telas interativas  com sistema integrado e modulo OPS. Adesao ao Pregao Eletronico n  002 2024 do Consorcio Intermunicipal de Educacao e Ensino do Parana   CIEDEPAR  conforme descrito no Anexo I  parte inseparavel deste Edital  sendo este  portanto  o Objeto desta Inexigibilidade de Licitacao. Adesao considerando a necessidade administrativa  quanto a esta efetivacao de negocio  sem representar prejuizo ao erario  conforme relacao em anexo.
