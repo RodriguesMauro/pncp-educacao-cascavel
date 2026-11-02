@@ -1,6 +1,6 @@
-# Monitor Sagres — 27/10/2026 13:10 (Brasília)
+# Monitor Sagres — 02/11/2026 17:36 (Brasília)
 
-UFs: PR · candidatos: 6 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 5 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -72,15 +72,24 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
 
-### 🟡 Aberta · aderência média — GOVERNO DO PARANA SECRETARIA DE ESTADO DA FAZENDA (Curitiba/PR)
-- **Objeto:** Contratação de empresa para o Fornecimento de 1 (uma) subscrição do software StreamYard, pelo período de 36 (trinta e seis) meses, visando atendimento de demandas da Escola Fazendária do Paraná (SEFA/EFAZ).
-- **Modalidade:** Dispensa · nº 17/2026
-- **Situação:** Divulgada no PNCP · atualizado em 26/10/2026 13:23
-- **Propostas:** 26/10/2026 14:00 → 30/10/2026 09:00  ✅ ABERTAS
-- **Valor estimado:** R$ 20.525,52
-- **Casou com:** software, escola
-- **PNCP:** https://pncp.gov.br/app/editais/76416890000189/2026/32
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92921506000172026
+### 🟠 Consórcio — CONSORCIO INTERMUNICIPAL DE SEGURANCA PUBLICA E CIDADANIA DE LONDRINA E REGIAO (Rolândia/PR)
+- **Objeto:** Registro de Preços de bens e serviços que viabilizem o provimento pleno e ininterrupto de solução sistêmica de Governança Pública Digital Educacional, compreendendo licenciamento de software, implantação, migração de dados, capacitação, hospedagem em nuvem e suporte técnico, destinada ao atendimento das demandas dos municípios consorciados ao Consórcio Intermunicipal de Segurança Pública, Soluções e Melhorias do Norte Central Paranaense – CISMEL/NCP
+- **Modalidade:** Pregão - Eletrônico · nº 4/2026 · SRP (ata de registro de preços)
+- **Situação:** Divulgada no PNCP · atualizado em 27/10/2026 16:49
+- **Propostas:** 29/10/2026 10:00 → 13/11/2026 08:59  ✅ ABERTAS
+- **Valor estimado:** R$ 25.569.573,57
+- **Casou com:** vigilância de consórcio
+- **PNCP:** https://pncp.gov.br/app/editais/11274930000150/2026/17
+- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92610805000042026
+
+### 🟠 Consórcio — CONSORCIO INTERMUNICIPAL DE SEGURANCA PUBLICA E CIDADANIA DE LONDRINA E REGIAO (Londrina/PR)
+- **Objeto:** Registro de preços de bens e serviços que viabilizem o provimento pleno e ininterrupto de solução sistêmica com vistas à instrumentalização da Governança Pública Digital Educacional, em atenção aos diplomas legais, recomendações, planos estratégicos do Órgão Gerenciador, dos Órgãos Participantes e orientações vigentes para as Administrações Públicas Educacionais, mediante os termos e condições constantes deste Termo de Referência
+- **Modalidade:** Pregão - Eletrônico · nº PCE 8/2026 · SRP (ata de registro de preços)
+- **Situação:** Divulgada no PNCP · atualizado em 27/10/2026 16:55
+- **Propostas:** 28/10/2026 09:00 → 13/11/2026 08:59  ✅ ABERTAS
+- **Valor estimado:** R$ 25.569.573,57
+- **Casou com:** vigilância de consórcio
+- **PNCP:** https://pncp.gov.br/app/editais/11274930000150/2026/18
 
 ### 🟡 Aberta · aderência média — MUNICIPIO DE UMUARAMA (Umuarama/PR)
 - **Objeto:** Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento operacional e garantia de sistema de Planetário Digital Full Dome, composto por cúpula, sistema de projeção imersiva 360°, software astronômico e educacional, sistema de áudio, infraestrutura de controle e demais componentes, a ser contratado mediante licitação na modalidade Pregão Eletrônico, sob o critério de julgamento pelo menor preço global.
@@ -90,22 +99,3 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 709.800,00
 - **Casou com:** software, educac
 - **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
-
-### ⚪ Aderência forte · fora do prazo — MUNICIPIO DE SAO PEDRO DO IGUACU (São Pedro do Iguaçu/PR)
-- **Objeto:** CONTRATAÇÃO, JUNTO À AMOP, DE CURSO DE FORMAÇÃO CONTINUADA, COM CARGA HORÁRIA TOTAL DE 32 (TRINTA E DUAS) HORAS, ABORDANDO OS TEMAS " EDUCAÇÃO EM TEMPO INTEGRAL: CONCEPÇÕES, PRÁTICAS PEDAGÓGICAS E ORGANIZAÇÃO CURRICULAR PARA O DESENVOLVIMENTO INTEGRAL " E " GESTÃO ESCOLAR NA EDUCAÇÃO BÁSICA: RESPONSABILIDADES, COMPETÊNCIAS E LIDERANÇA PEDAGÓGICA", VOLTADO À EQUIPE PEDAGÓGICA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E ÀS DIRETORAS DAS ESCOLAS E CMEIS DA REDE MUNICIPAL DE ENSINO.
-- **Modalidade:** Inexigibilidade · nº IL 40/2026
-- **Situação:** Divulgada no PNCP · atualizado em 26/10/2026 17:17
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 10.000,00
-- **Casou com:** gestao escolar
-- **PNCP:** https://pncp.gov.br/app/editais/95583597000150/2026/122
-
-### ⚪ Acompanhamento — MUNICIPIO DE BOM SUCESSO DO SUL (Bom Sucesso do Sul/PR)
-- **Objeto:** Contratacao direta da empresa RENTAL SAAS SERVICOS E SOLUCOES EM INFORMATICA LTDA  visando a a aquisicao de telas interativas  com sistema integrado e modulo OPS. Adesao ao Pregao Eletronico n  002 2024 do Consorcio Intermunicipal de Educacao e Ensino do Parana   CIEDEPAR  conforme descrito no Anexo I  parte inseparavel deste Edital  sendo este  portanto  o Objeto desta Inexigibilidade de Licitacao. Adesao considerando a necessidade administrativa  quanto a esta efetivacao de negocio  sem representar prejuizo ao erario  conforme relacao em anexo.
-- **Modalidade:** Inexigibilidade · nº 16 | Processo 117/2026
-- **Situação:** Divulgada no PNCP · atualizado em 26/10/2026 10:09
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 14.171,79
-- **Casou com:** saas, educac, ensino
-- **PNCP:** https://pncp.gov.br/app/editais/80874100000186/2026/117
-- **Sistema de origem:**  
