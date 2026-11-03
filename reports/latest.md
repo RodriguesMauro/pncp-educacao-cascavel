@@ -1,6 +1,6 @@
-# Monitor Sagres — 02/11/2026 17:36 (Brasília)
+# Monitor Sagres — 03/11/2026 15:13 (Brasília)
 
-UFs: PR · candidatos: 5 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 5 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -91,11 +91,11 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/11274930000150/2026/18
 
-### 🟡 Aberta · aderência média — MUNICIPIO DE UMUARAMA (Umuarama/PR)
-- **Objeto:** Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento operacional e garantia de sistema de Planetário Digital Full Dome, composto por cúpula, sistema de projeção imersiva 360°, software astronômico e educacional, sistema de áudio, infraestrutura de controle e demais componentes, a ser contratado mediante licitação na modalidade Pregão Eletrônico, sob o critério de julgamento pelo menor preço global.
-- **Modalidade:** Pregão - Eletrônico · nº 59/2026
-- **Situação:** Divulgada no PNCP · atualizado em 19/10/2026 15:33
-- **Propostas:** 19/10/2026 13:30 → 03/11/2026 13:30  ✅ ABERTAS
-- **Valor estimado:** R$ 709.800,00
-- **Casou com:** software, educac
-- **PNCP:** https://pncp.gov.br/app/editais/76247378000156/2026/174
+### ⚪ Acompanhamento — UNIVERSIDADE FEDERAL DO PARANA (Curitiba/PR)
+- **Objeto:** Contratação de uma Fundação de Apoio, autorizada a apoiar projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação da UFPR, para prestação de serviços de apoio à gestão administrativa e financeira, a ser executada pela FUNPAR, do projeto “Desenvolvimento e Validação de Plataforma Fotobiotecnológica para Produção de Biomassa de Microalgas, Fixação de CO₂ e Tratamento de Efluentes”.
+- **Modalidade:** Dispensa · nº 732/2026
+- **Situação:** Divulgada no PNCP · atualizado em 03/11/2026 08:50
+- **Propostas:** n/d → n/d
+- **Valor estimado:** R$ 800.000,00
+- **Casou com:** plataforma, ensino
+- **PNCP:** https://pncp.gov.br/app/editais/75095679000149/2026/632
