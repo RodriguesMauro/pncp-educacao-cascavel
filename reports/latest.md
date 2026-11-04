@@ -1,6 +1,6 @@
-# Monitor Sagres — 03/11/2026 15:13 (Brasília)
+# Monitor Sagres — 04/11/2026 15:24 (Brasília)
 
-UFs: PR · candidatos: 5 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 6 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -90,6 +90,16 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Valor estimado:** R$ 25.569.573,57
 - **Casou com:** vigilância de consórcio
 - **PNCP:** https://pncp.gov.br/app/editais/11274930000150/2026/18
+
+### 🟡 Aberta · aderência média — MUNICIPIO DE IPIRANGA (Ipiranga/PR)
+- **Objeto:** Contratação de empresa que se enquadre como MEI, ME e EPP conforme Lei Complementar nº.123/2006 e Lei Complementar 147/2014 para fornecimento de licença de uso de sistema informatizado de controle eletrônico de jornada dos motoristas da Secretaria Municipal de Educação e Cultura, para até 50 usuários, pelo período de 12 meses.
+- **Modalidade:** Pregão - Eletrônico · nº 79/2026
+- **Situação:** Divulgada no PNCP · atualizado em 04/11/2026 08:21
+- **Propostas:** 04/11/2026 08:30 → 19/11/2026 08:00  ✅ ABERTAS
+- **Valor estimado:** R$ 1.440,00
+- **Casou com:** sistema informatizado, licenca de uso, educac
+- **PNCP:** https://pncp.gov.br/app/editais/76175934000126/2026/64
+- **Sistema de origem:** https://bllcompras.com/Process/ProcessView?param1=[gkz]C/sKMAC/F1_wrCpynn0flHgDdZhF4niRlBI_/6zRMXYDSzz01HJb095H9M4Dyn/NObStSuGSEGGYpb3FQeh1LjK3kswS_Fgzp5ZheiMEcfE=
 
 ### ⚪ Acompanhamento — UNIVERSIDADE FEDERAL DO PARANA (Curitiba/PR)
 - **Objeto:** Contratação de uma Fundação de Apoio, autorizada a apoiar projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação da UFPR, para prestação de serviços de apoio à gestão administrativa e financeira, a ser executada pela FUNPAR, do projeto “Desenvolvimento e Validação de Plataforma Fotobiotecnológica para Produção de Biomassa de Microalgas, Fixação de CO₂ e Tratamento de Efluentes”.
