@@ -1,6 +1,6 @@
-# Monitor Sagres — 04/11/2026 15:24 (Brasília)
+# Monitor Sagres — 09/11/2026 18:16 (Brasília)
 
-UFs: PR · candidatos: 6 · novos: 1 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 7 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -54,6 +54,15 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 
 ## Oportunidades
 
+### 🔴 Aberta · aderência forte — SECRETARIA DE ESTADO DA EDUCACAO E DO ESPORTE (Curitiba/PR)
+- **Objeto:** Credenciamento para contratação por resultado de edital de credenciamento, pessoas jurídicas de direito privado especializadas na prestação de serviços de gestão educacional e implementação de ações e estratégias que contribuam para melhorar o processo de ensino e aprendizagem dos alunos das instituições de ensino estaduais, autorizados pela Secretaria de Estado da Educação do Paraná - SEED.
+- **Modalidade:** Credenciamento · nº 1/2025
+- **Situação:** Divulgada no PNCP · atualizado em 13/11/2025 15:08
+- **Propostas:** 07/11/2024 08:00 → 05/11/2027 17:59  ✅ ABERTAS
+- **Valor estimado:** R$ 0,00
+- **Casou com:** gestao educacional
+- **PNCP:** https://pncp.gov.br/app/editais/76416965000121/2025/1
+
 ### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO NORTE PIONEIRO (Jacarezinho/PR)
 - **Objeto:** Registro de Preços de empresa especializada para o fornecimento de licença de uso de sistema informatizado de Gestão Educacional e Plataforma Educacional, compreendendo a disponibilização da solução tecnológica, os serviços de instalação, implantação, treinamento, manutenção e suporte técnico continuado, a serem executados por equipe qualificada na área educacional, destinados ao atendimento das demandas administrativas, operacionais e pedagógicas da Secretaria Municipal de Educação, em atendimento as necessidades dos 22 municípios consorciados ao CISNORPI.
 - **Modalidade:** Pregão - Eletrônico · nº 36/2026 · SRP (ata de registro de preços)
@@ -101,11 +110,11 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **PNCP:** https://pncp.gov.br/app/editais/76175934000126/2026/64
 - **Sistema de origem:** https://bllcompras.com/Process/ProcessView?param1=[gkz]C/sKMAC/F1_wrCpynn0flHgDdZhF4niRlBI_/6zRMXYDSzz01HJb095H9M4Dyn/NObStSuGSEGGYpb3FQeh1LjK3kswS_Fgzp5ZheiMEcfE=
 
-### ⚪ Acompanhamento — UNIVERSIDADE FEDERAL DO PARANA (Curitiba/PR)
-- **Objeto:** Contratação de uma Fundação de Apoio, autorizada a apoiar projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação da UFPR, para prestação de serviços de apoio à gestão administrativa e financeira, a ser executada pela FUNPAR, do projeto “Desenvolvimento e Validação de Plataforma Fotobiotecnológica para Produção de Biomassa de Microalgas, Fixação de CO₂ e Tratamento de Efluentes”.
-- **Modalidade:** Dispensa · nº 732/2026
-- **Situação:** Divulgada no PNCP · atualizado em 03/11/2026 08:50
+### ⚪ Acompanhamento — UNIVERSIDADE ESTADUAL DE MARINGA (Maringá/PR)
+- **Objeto:** Contratação de empresa especializada no fornecimento de solução tecnológica educacional (TOFAS), na modalidade Software as a Service (SaaS), para avaliação diagnóstica adaptativa de aprendizagem em cálculo e programação (Java e Python).
+- **Modalidade:** Inexigibilidade · nº 261/2026
+- **Situação:** Divulgada no PNCP · atualizado em 09/11/2026 08:45
 - **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 800.000,00
-- **Casou com:** plataforma, ensino
-- **PNCP:** https://pncp.gov.br/app/editais/75095679000149/2026/632
+- **Valor estimado:** R$ 29.600,00
+- **Casou com:** software, saas, educac
+- **PNCP:** https://pncp.gov.br/app/editais/79151312000156/2026/827
