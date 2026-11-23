@@ -1,6 +1,6 @@
-# Monitor Sagres — 09/11/2026 18:16 (Brasília)
+# Monitor Sagres — 23/11/2026 19:25 (Brasília)
 
-UFs: PR · candidatos: 7 · novos: 2 · alterados: 0 · atas CIEDEPAR: 38
+UFs: PR · candidatos: 11 · novos: 9 · alterados: 0 · atas CIEDEPAR: 39
 
 ## Vigilância CIEDEPAR — Pregão Eletrônico 006/2026
 
@@ -24,7 +24,7 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - 📜 Ata CIEDEPAR: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FABRICAÇÃO E FORNECIMENTO DE ITENS PARA PADRONIZAÇÃO DE INDUMENTARIA (UNIFORMES ESCOLARES),  VISANDO ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DOS MUNICÍPIOS CONSORCIADOS DO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO NORTE PIONEIRO – CISNORPI · vigência até 20/01/2027 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, NA MODALIDADE PREGÃO ELETRÔNICO, OBJETIVANDO A AQUISIÇÃO DE MÓVEIS E BENS PERMANENTES, PARA USO DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS. · vigência até 20/01/2027 00:00
 - 📜 Ata CIEDEPAR: Registro de preços para a aquisição de materiais odontológicos, a fim de atender às necessidades do Centro Regional de Especialidades Odontológicas do Consórcio Público Intermunicipal de Saúde do Norte Pioneiro - CISNORPI, pelo período de 12 (doze) meses.  · vigência até 23/01/2027 00:00
-- 📜 Ata CIEDEPAR: Registro de Preços na modalidade Pregão Eletrônico para futura contratação de fornecimento, instalação, manutenção e retirada de iluminação e estruturas decorativas para os festejos natalinos nos municípios consorciados ao CISNORPI. · vigência até 09/11/2026 00:00
+- 📜 Ata CIEDEPAR: Registro de Preços na modalidade Pregão Eletrônico para futura contratação de fornecimento, instalação, manutenção e retirada de iluminação e estruturas decorativas para os festejos natalinos nos municípios consorciados ao CISNORPI. · vigência até 11/11/2027 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO FORNECIMENTO E INSTALAÇÃO DO SISTEMA DE PISO EM POLIPROPILENO, DOS ÓRGÃOS E ENTIDADES DOS ENTES DA FEDERAÇÃO CONSORCIADOS AO CISNORPI. · vigência até 18/12/2026 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, NA MODALIDADE PREGÃO ELETRÔNICO, OBJETIVANDO A AQUISIÇÃO DE MATERIAL DE LIMPEZA, HIGIENE e DESCARTÁVEIS, PARA USO DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS. · vigência até 30/01/2027 00:00
 - 📜 Ata CIEDEPAR: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FABRICAÇÃO E FORNECIMENTO DE ITENS PARA PADRONIZAÇÃO DE INDUMENTARIA (UNIFORMES ESCOLARES),  VISANDO ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DOS MUNICÍPIOS CONSORCIADOS DO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO NORTE PIONEIRO – CISNORPI · vigência até 18/02/2027 00:00
@@ -51,8 +51,28 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - 📜 Ata CIEDEPAR: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA FABRICAÇÃO E FORNECIMENTO DE ITENS PARA PADRONIZAÇÃO DE INDUMENTARIA (UNIFORMES ESCOLARES),  VISANDO ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DOS MUNICÍPIOS CONSORCIADOS DO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE SAÚDE DO NORTE PIONEIRO – CISNORPI · vigência até 27/09/2027 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE ITENS DE MATERIAL DE ESCRITÓRIO E DE PAPELARIA, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 30/09/2027 00:00
 - 📜 Ata CIEDEPAR: REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL AQUISIÇÃO DE ITENS DE MATERIAL DE ESCRITÓRIO E DE PAPELARIA, EM ATENDIMENTO AS NECESSIDADES DOS 22 MUNICÍPIOS CONSORCIADOS AO CISNORPI. · vigência até 15/10/2027 00:00
+- 📜 Ata CIEDEPAR: Registro de Preços na forma de Licitação Compartilhada para eventual e futura aquisição de conjuntos de robótica educacional no formato de construção maker e no formato de encaixe que envolvam a construção, mecanização, programação e automação de protótipos para atender aos estudantes dos municípios consorciados ao CISNORPI, visando na resolução problemas sociais, econômicos e ambientais. · vigência até 11/11/2027 00:00
 
 ## Oportunidades
+
+### 🔴 Aberta · aderência forte — MUNICIPIO DE ARAUCARIA (Araucária/PR)
+- **Objeto:** Contratação de plataforma integrada de gestão pública digital, destinada à automação e controle dos processos administrativos, orçamentários, financeiros, de pessoal, tributários e de transparência, com infraestrutura em nuvem, licenciamento de uso, serviços de implantação, suporte técnico, capacitação de usuários e manutenção evolutiva, visando à eficiência administrativa e à conformidade com o Decreto nº 39.132/2023 e a Lei nº 14.133/2021, nos termos estabelecidos no Edital e seus Anexos.
+- **Modalidade:** Pregão - Eletrônico · nº 47/2026 · SRP (ata de registro de preços)
+- **Situação:** Divulgada no PNCP · atualizado em 10/11/2026 14:37
+- **Propostas:** 11/11/2026 09:00 → 30/11/2026 08:59  ✅ ABERTAS
+- **Valor estimado:** R$ 53.632.711,82
+- **Casou com:** plataforma integrada de gestao
+- **PNCP:** https://pncp.gov.br/app/editais/76105535000199/2026/374
+- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553205000472026
+
+### 🔴 Aberta · aderência forte — MUNICIPIO DE ARAUCARIA (Araucária/PR)
+- **Objeto:** : Contratação de plataforma integrada de gestão pública digital, destinada à automação e controle dos processos administrativos, orçamentários, financeiros, de pessoal, tributários e de transparência, com infraestrutura em nuvem, licenciamento de uso, serviços de implantação, suporte técnico, capacitação de usuários e manutenção evolutiva, visando à eficiência administrativa e à conformidade com o Decreto nº 39.132/2023 e a Lei nº 14.133/2021
+- **Modalidade:** Pregão - Eletrônico · nº PCE 73/2026 · SRP (ata de registro de preços)
+- **Situação:** Divulgada no PNCP · atualizado em 11/11/2026 15:24
+- **Propostas:** 11/11/2026 09:00 → 30/11/2026 08:59  ✅ ABERTAS
+- **Valor estimado:** R$ 53.632.711,82
+- **Casou com:** plataforma integrada de gestao
+- **PNCP:** https://pncp.gov.br/app/editais/76105535000199/2026/376
 
 ### 🔴 Aberta · aderência forte — SECRETARIA DE ESTADO DA EDUCACAO E DO ESPORTE (Curitiba/PR)
 - **Objeto:** Credenciamento para contratação por resultado de edital de credenciamento, pessoas jurídicas de direito privado especializadas na prestação de serviços de gestão educacional e implementação de ações e estratégias que contribuam para melhorar o processo de ensino e aprendizagem dos alunos das instituições de ensino estaduais, autorizados pela Secretaria de Estado da Educação do Paraná - SEED.
@@ -72,49 +92,69 @@ DOS ÓRGÃOS OU ENTIDADES DOS ENTES CONSORCIADOS, EM ATENDIMENTO AS NECESSIDADES
 - **Casou com:** gestao educacional, plataforma educacional
 - **PNCP:** https://pncp.gov.br/app/editais/00476612000155/2026/172
 
-### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO CENTRO NOROESTE DO PARANA (Cianorte/PR)
-- **Objeto:** Contratação de agente de integração de estágios especializado para prestação de serviços de recrutamento, seleção e acompanhamento de estudantes para atuarem como estagiários no âmbito do CICENOP.
-- **Modalidade:** Pregão - Eletrônico · nº 13/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 20/10/2026 10:31
-- **Propostas:** 02/10/2026 08:00 → 10/11/2026 08:30  ✅ ABERTAS
-- **Valor estimado:** R$ 160.556,16
+### 🟠 Consórcio — CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE DO NORTE PIONEIRO (Jacarezinho/PR)
+- **Objeto:** DISPENSA ELETRÔNICA PARA AQUISIÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA, COM REALIZAÇÃO DE CALIBRAGEM, E MANUTENÇÃO CORRETIVA DOS EQUIPAMENTOS DE ELETROTERMOFOTOTERAPIA UTILIZADOS PELA CLÍNICA DE FISIOTERAPIA E REABILITAÇÃO PROFESSOR ALFREDO FRANCO AYUB
+- **Modalidade:** Dispensa · nº 31/2026
+- **Situação:** Divulgada no PNCP · atualizado em 16/11/2026 10:20
+- **Propostas:** 16/11/2026 08:00 → 26/11/2026 08:30  ✅ ABERTAS
+- **Valor estimado:** R$ 68.480,78
 - **Casou com:** vigilância de consórcio
-- **PNCP:** https://pncp.gov.br/app/editais/01178931000147/2026/28
+- **PNCP:** https://pncp.gov.br/app/editais/00476612000155/2026/228
 
-### 🟠 Consórcio — CONSORCIO INTERMUNICIPAL DE SEGURANCA PUBLICA E CIDADANIA DE LONDRINA E REGIAO (Rolândia/PR)
-- **Objeto:** Registro de Preços de bens e serviços que viabilizem o provimento pleno e ininterrupto de solução sistêmica de Governança Pública Digital Educacional, compreendendo licenciamento de software, implantação, migração de dados, capacitação, hospedagem em nuvem e suporte técnico, destinada ao atendimento das demandas dos municípios consorciados ao Consórcio Intermunicipal de Segurança Pública, Soluções e Melhorias do Norte Central Paranaense – CISMEL/NCP
-- **Modalidade:** Pregão - Eletrônico · nº 4/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 27/10/2026 16:49
-- **Propostas:** 29/10/2026 10:00 → 13/11/2026 08:59  ✅ ABERTAS
-- **Valor estimado:** R$ 25.569.573,57
+### 🟠 Consórcio — CIEDEPAR - CONSORCIO INTERMUNICIPAL DE EDUCACAO E ENSINO DO PARANA (Curitiba/PR)
+- **Objeto:** Aquisição de vestuário padronizado de uso escolar, meias escolares e calçados padronizados, destinados ao atendimento dos alunos das redes públicas de ensino dos municípios consorciados ao CIEDEPAR, observando critérios de qualidade, durabilidade, conforto, segurança e adequação ao uso contínuo em ambiente educacional, visando atender às necessidades desta instituição e dos municípios consorciados
+- **Modalidade:** Pregão - Eletrônico · nº 5/2026 · SRP (ata de registro de preços)
+- **Situação:** Divulgada no PNCP · atualizado em 12/11/2026 13:59
+- **Propostas:** 12/11/2026 08:30 → 26/11/2026 09:00  ✅ ABERTAS
+- **Valor estimado:** R$ 152.901.790,00
 - **Casou com:** vigilância de consórcio
-- **PNCP:** https://pncp.gov.br/app/editais/11274930000150/2026/17
-- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92610805000042026
+- **PNCP:** https://pncp.gov.br/app/editais/37584276000174/2026/10
 
-### 🟠 Consórcio — CONSORCIO INTERMUNICIPAL DE SEGURANCA PUBLICA E CIDADANIA DE LONDRINA E REGIAO (Londrina/PR)
-- **Objeto:** Registro de preços de bens e serviços que viabilizem o provimento pleno e ininterrupto de solução sistêmica com vistas à instrumentalização da Governança Pública Digital Educacional, em atenção aos diplomas legais, recomendações, planos estratégicos do Órgão Gerenciador, dos Órgãos Participantes e orientações vigentes para as Administrações Públicas Educacionais, mediante os termos e condições constantes deste Termo de Referência
-- **Modalidade:** Pregão - Eletrônico · nº PCE 8/2026 · SRP (ata de registro de preços)
-- **Situação:** Divulgada no PNCP · atualizado em 27/10/2026 16:55
-- **Propostas:** 28/10/2026 09:00 → 13/11/2026 08:59  ✅ ABERTAS
-- **Valor estimado:** R$ 25.569.573,57
-- **Casou com:** vigilância de consórcio
-- **PNCP:** https://pncp.gov.br/app/editais/11274930000150/2026/18
+### 🟡 Aberta · aderência média — MUNICIPIO DE PORTO RICO (Porto Rico/PR)
+- **Objeto:** AQUISIÇÃO  DE SOLUÇÕES DE INFRAESTRUTURA DE SUPORTE POSTURAL E FÍSICO CORPORATIVO, PLATAFORMAS ERGONÔMICAS DE ASSENTO INDIVIDUAL E COLETIVO, SUPERFÍCIES FUNCIONAIS (LINEARES, ANGULARES, CIRCULARES E BIPARTIDAS) PARA POSTOS DE TRABALHO E REFEITÓRIOS, E MÓDULOS DE ARMAZENAMENTO, ARQUIVAMENTO TÉCNICO E EXPOSIÇÃO DE ALTA DENSIDADE, VISANDO EQUIPAR, PADRONIZAR E MODERNIZAR AS DEPENDÊNCIAS E REPARTIÇÕES DAS INSTITUIÇÕES DE ENSINO INTEGRADAS AO MUNICÍPIO DE
+PORTO RICO - PR.
+- **Modalidade:** Pregão - Eletrônico · nº 26/2026
+- **Situação:** Divulgada no PNCP · atualizado em 09/11/2026 13:17
+- **Propostas:** 09/11/2026 17:00 → 25/11/2026 08:00  ✅ ABERTAS
+- **Valor estimado:** R$ 1.215.746,00
+- **Casou com:** plataforma, ensino
+- **PNCP:** https://pncp.gov.br/app/editais/75461970000193/2026/100
 
-### 🟡 Aberta · aderência média — MUNICIPIO DE IPIRANGA (Ipiranga/PR)
-- **Objeto:** Contratação de empresa que se enquadre como MEI, ME e EPP conforme Lei Complementar nº.123/2006 e Lei Complementar 147/2014 para fornecimento de licença de uso de sistema informatizado de controle eletrônico de jornada dos motoristas da Secretaria Municipal de Educação e Cultura, para até 50 usuários, pelo período de 12 meses.
-- **Modalidade:** Pregão - Eletrônico · nº 79/2026
-- **Situação:** Divulgada no PNCP · atualizado em 04/11/2026 08:21
-- **Propostas:** 04/11/2026 08:30 → 19/11/2026 08:00  ✅ ABERTAS
-- **Valor estimado:** R$ 1.440,00
-- **Casou com:** sistema informatizado, licenca de uso, educac
-- **PNCP:** https://pncp.gov.br/app/editais/76175934000126/2026/64
-- **Sistema de origem:** https://bllcompras.com/Process/ProcessView?param1=[gkz]C/sKMAC/F1_wrCpynn0flHgDdZhF4niRlBI_/6zRMXYDSzz01HJb095H9M4Dyn/NObStSuGSEGGYpb3FQeh1LjK3kswS_Fgzp5ZheiMEcfE=
+### 🟡 Aberta · aderência média — MUNICIPIO DE CASCAVEL (Cascavel/PR)
+- **Objeto:** CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE INFORMÁTICA PARA LICENÇA DE USO DE SOFTWARES PARA GESTÃO PÚBLICA EDUCACIONAL DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E SUAS UNIDADE ESCOLARES.
+- **Modalidade:** Pregão - Eletrônico · nº 113/2026
+- **Situação:** Divulgada no PNCP · atualizado em 10/11/2026 10:20
+- **Propostas:** 11/11/2026 09:00 → 27/11/2026 08:59  ✅ ABERTAS
+- **Valor estimado:** R$ 221.330,34
+- **Casou com:** software, licenca de uso, educac, escola
+- **PNCP:** https://pncp.gov.br/app/editais/76208867000107/2026/651
+- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98749305001132026
 
-### ⚪ Acompanhamento — UNIVERSIDADE ESTADUAL DE MARINGA (Maringá/PR)
-- **Objeto:** Contratação de empresa especializada no fornecimento de solução tecnológica educacional (TOFAS), na modalidade Software as a Service (SaaS), para avaliação diagnóstica adaptativa de aprendizagem em cálculo e programação (Java e Python).
-- **Modalidade:** Inexigibilidade · nº 261/2026
-- **Situação:** Divulgada no PNCP · atualizado em 09/11/2026 08:45
-- **Propostas:** n/d → n/d
-- **Valor estimado:** R$ 29.600,00
-- **Casou com:** software, saas, educac
-- **PNCP:** https://pncp.gov.br/app/editais/79151312000156/2026/827
+### 🟡 Aberta · aderência média — MUNICIPIO DE MANDAGUARI (Mandaguari/PR)
+- **Objeto:** CONTRATAÇÃO DE EMPRESA ESPECIALIZADA, NA CONDIÇÃO DE AGENTE DE INTEGRAÇÃO, PARA PRESTAÇÃO DE SERVIÇOS DE GESTÃO ADMINISTRATIVA, TÉCNICA, FINANCEIRA E DOCUMENTAL DO PROGRAMA DE ESTÁGIO OBRIGATÓRIO E NÃO OBRIGATÓRIO DA PREFEITURA DO MUNICÍPIO DE MANDAGUARI, DESTINADO A ESTUDANTES REGULARMENTE MATRICULADOS E COM FREQUÊNCIA EFETIVA NO ENSINO MÉDIO, NA EDUCAÇÃO PROFISSIONAL E EM INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR GRADUAÇÃO E PÓS-GRADUAÇÃO, PARA ATENDIMENTO DE TODAS AS SECRETARIAS MUNICIPAIS, CONFORME
+- **Modalidade:** Pregão - Eletrônico · nº 15/2026
+- **Situação:** Divulgada no PNCP · atualizado em 12/11/2026 08:12
+- **Propostas:** 12/11/2026 09:10 → 27/11/2026 09:00  ✅ ABERTAS
+- **Valor estimado:** R$ 2.446.089,00
+- **Casou com:** plataforma, educac, ensino
+- **PNCP:** https://pncp.gov.br/app/editais/76285345000109/2026/200
+- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767705000152026
+
+### 🟡 Aberta · aderência média — MUNICIPIO DE CASCAVEL (Cascavel/PR)
+- **Objeto:** CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE INFORMÁTICA PARA LICENÇA DE USO DE SOFTWARES PARA GESTÃO PÚBLICA EDUCACIONAL DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E SUAS UNIDADE ESCOLARES.
+- **Modalidade:** Pregão - Eletrônico · nº PCE 167/2026
+- **Situação:** Divulgada no PNCP · atualizado em 11/11/2026 12:55
+- **Propostas:** 11/11/2026 09:00 → 27/11/2026 09:00  ✅ ABERTAS
+- **Valor estimado:** R$ 221.330,34
+- **Casou com:** software, licenca de uso, educac, escola
+- **PNCP:** https://pncp.gov.br/app/editais/76208867000107/2026/653
+
+### 🟡 Aberta · aderência média — MUNICIPIO DE BELA VISTA DO PARAISO (Bela Vista do Paraíso/PR)
+- **Objeto:** Registro de preços para contratação de empresa na prestação de serviços de decoração para eventos promovidos pelos Departamentos Municipais de Saúde, Educação, Cultura e Esporte e Assistência Social do Município de Bela Vista do Paraíso–PR.
+- **Modalidade:** Pregão - Eletrônico · nº 29/2026 · SRP (ata de registro de preços)
+- **Situação:** Divulgada no PNCP · atualizado em 12/11/2026 13:33
+- **Propostas:** 13/11/2026 08:00 → 01/12/2026 09:00  ✅ ABERTAS
+- **Valor estimado:** R$ 49.200,00
+- **Casou com:** plataforma, educac
+- **PNCP:** https://pncp.gov.br/app/editais/76245067000158/2026/59
+- **Sistema de origem:** https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98745305000292026
